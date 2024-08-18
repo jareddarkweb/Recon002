@@ -3317,7 +3317,6 @@ frontend.recov.expressvpn.com
 fsg.citibank.dev.kraken.com
 fsg.citibank.prod.kraken.com
 ftgmer.quizlet.com
-ftlofs2.lobster.kraken.com
 ftp.freerange.ikea.com
 ftp.indeed.com
 ftp.quizlet.com
@@ -4296,7 +4295,6 @@ ko-jobs.about.ikea.com
 kosuncovered.aggtest.indeed.com
 kr.conv.indeed.com
 kr.indeed.com
-kraken.com
 krakentoau10tix-prod.kraken.com
 krakentoau10tix.kraken.com
 kubernetes.quizlet.com
@@ -5682,6 +5680,7 @@ pubdom-americas.indeed.com
 pubdom-aus.indeed.com
 public.payments.expressvpn.com
 public.payments.recov.expressvpn.com
+publications-ca-en.ikea.com
 publications-ca-fr.ikea.com
 publications-ext.ikea.com
 publications-it-it.ikea.com
@@ -6360,6 +6359,7 @@ sup.b2b.ikea.com
 supermaly.en.quizlet.com
 superset.lime.bike
 supplier.ikea.com
+supply.lime.bike
 support.bullish.com
 support.expressvpn.com
 support.home-design.ikea.com
@@ -7286,7 +7286,6 @@ www.2011.enmax.com
 www.2012.enmax.com
 www.24.enmax.com
 www.3.enmax.com
-www.3vyknc3vzs-storage-75.kraken.com
 www.4.enmax.com
 www.5.enmax.com
 www.6.enmax.com
@@ -7333,16 +7332,13 @@ www.alumni.enmax.com
 www.am.manulife.com
 www.amazon.enmax.com
 www.america.enmax.com
-www.analytics.dev1.kraken.com
 www.analytics.enmax.com
-www.analytics.prod1.kraken.com
 www.andy.enmax.com
 www.anywhere.enmax.com
 www.aorsso-uat.manulife.com
 www.ap-myclients.manulife.ca
 www.api.ca.manulife.com
 www.api.food.inter.ikea.com
-www.api.futures.kraken.com
 www.api.inter.ikea.com
 www.api.iserve-dev.ikea.com
 www.api.iserve-ppe.ikea.com
@@ -7445,8 +7441,6 @@ www.azlapnsioiib.ap.manulife.com
 www.azslvedldpsdd01.d01saedl.manulife.com
 www.azslvedlwrkdd02.d01saedl.manulife.com
 www.azwapppisdms01.ap.manulife.com
-www.backend-restricted.expressvpn.com
-www.backend.expressvpn.com
 www.batcave.manulife.ca
 www.bi.food.inter.ikea.com
 www.billing.indeed.com
@@ -7591,7 +7585,6 @@ www.faspex.manulife.com
 www.faspexdev.manulife.com
 www.fi-int-jobs.about.ikea.com
 www.fi-jobs.about.ikea.com
-www.fix-api.kraken.com
 www.flow.manulife.com
 www.fmo.portal.manulife.ca
 www.food.inter.ikea.com
@@ -7839,8 +7832,6 @@ www.khwzawswebp02.mladcam.manulife.com
 www.ko-int-jobs.about.ikea.com
 www.ko-jobs.about.ikea.com
 www.kraken.com
-www.krakentoau10tix-prod.kraken.com
-www.krakentoau10tix.kraken.com
 www.lt-int-jobs.about.ikea.com
 www.lt-jobs.about.ikea.com
 www.lv-int-jobs.about.ikea.com
@@ -7959,8 +7950,6 @@ www.optiva.food.inter.ikea.com
 www.oracledb.manulife.com
 www.oraclefusionsso-uat.manulife.com
 www.oraclefusionsso.manulife.com
-www.orders.kraken.com
-www.origin.expressvpn.com
 www.ouryear.ikea.com
 www.outsyshkitapd.ap.manulife.com
 www.outsyshkitapu.ap.manulife.com
@@ -8012,7 +8001,6 @@ www.raeu03.ikea.com
 www.rana03.ikea.com
 www.rb1.tst.manulife.com
 www.react.fundament.ikea.com
-www.releasemaster.expressvpn.com
 www.remotehk.manulife.com
 www.remotehk1.manulife.com
 www.remotehk2.manulife.com
@@ -8100,7 +8088,6 @@ www.sl-int-jobs.about.ikea.com
 www.sl-jobs.about.ikea.com
 www.smlpsa8a.ap.manulife.com
 www.smltsa8a.ap.manulife.com
-www.smon.expressvpn.com
 www.snowbound-viewer-dev.manulife.ca
 www.snowbound-viewer-prd.manulife.ca
 www.snowbound-viewer-trn.manulife.ca
@@ -8124,7 +8111,6 @@ www.stg-mms.invsft.manulife.com
 www.sts.home.inter.ikea.com
 www.sts.news.inter.ikea.com
 www.supplier.ikea.com
-www.support.expressvpn.com
 www.support.manulife.com
 www.survey.manulife.com
 www.sustainableliving.ikea.com
@@ -8154,11 +8140,7 @@ www.token.manulife.com
 www.tokenize-ds-t1.manulife.ca
 www.tokenize-ds.manulife.ca
 www.tools.manulife.com
-www.tr-v15.kraken.com
-www.tr15-preprod.kraken.com
 www.transact.manulife.com
-www.travel.kraken.com
-www.travel.lobster.kraken.com
 www.travelb2c.manulife.com
 www.tripx-auth-api.dev.aks.manulife.ca
 www.tripx-compensation-api.dev.aks.manulife.ca
@@ -8186,7 +8168,6 @@ www.uat-jira.manulife.com
 www.uat-necst.manulife.com
 www.uat.illustrations.manulife.ca
 www.uat.insurance.manulife.ca
-www.uat.lobster.kraken.com
 www.uat.pot.manulife.ca
 www.uatarrowonramp.manulife.com
 www.uatiicarrowws.manulife.com
@@ -8201,7 +8182,6 @@ www.ukie-appointment-booking.ikea.com
 www.vi-int-jobs.about.ikea.com
 www.vi-jobs.about.ikea.com
 www.videos.ikea.com
-www.vip.uat.lobster.kraken.com
 www.vitalityservice.manulife.ca
 www.vivr-np.manulife.com
 www.vivr.manulife.com
@@ -8211,7 +8191,6 @@ www.voltage-pp-0000.test.manulife.com
 www.voltage-ps-0000.manulife.com
 www.voltage-ps-0000.test.manulife.com
 www.vpngw.manulife.com
-www.web1.kraken.com
 www.webcast.manulife.com
 www.webillustrationsso-uat.manulife.com
 www.webillustrationsso.manulife.com
