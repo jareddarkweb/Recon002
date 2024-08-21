@@ -1362,7 +1362,6 @@ content.listing.bullish.com
 content.marketing.bullish.com
 contest.textnow.com
 conv.indeed.com
-cookie-removal-test-cloudfront.indeed.com
 cookiemgr.indeed.com
 copper.lobster.kraken.com
 cornea.exchange.bullish.com
@@ -1954,6 +1953,7 @@ frontend.recov.expressvpn.com
 fsg.citibank.dev.kraken.com
 fsg.citibank.prod.kraken.com
 ftgmer.quizlet.com
+ftlofs2.lobster.kraken.com
 ftp.freerange.ikea.com
 ftp.indeed.com
 ftp.quizlet.com
@@ -2603,6 +2603,7 @@ ko-jobs.about.ikea.com
 kosuncovered.aggtest.indeed.com
 kr.conv.indeed.com
 kr.indeed.com
+kraken.com
 krakentoau10tix-prod.kraken.com
 krakentoau10tix.kraken.com
 kubernetes.quizlet.com
@@ -3714,7 +3715,6 @@ pt-jobs.about.ikea.com
 pt.chat.ikea.com
 pt.conv.indeed.com
 pt.indeed.com
-ptag-info.ikea.com
 pub-1255315079648730.afd.ghs.quizlet.com
 pub-1699158411281859.afd.ghs.quizlet.com
 pubdom-americas.indeed.com
@@ -5041,6 +5041,7 @@ www.2011.enmax.com
 www.2012.enmax.com
 www.24.enmax.com
 www.3.enmax.com
+www.3vyknc3vzs-storage-75.kraken.com
 www.4.enmax.com
 www.5.enmax.com
 www.6.enmax.com
@@ -5081,11 +5082,14 @@ www.allegro.enmax.com
 www.alumni.enmax.com
 www.amazon.enmax.com
 www.america.enmax.com
+www.analytics.dev1.kraken.com
 www.analytics.enmax.com
+www.analytics.prod1.kraken.com
 www.andy.enmax.com
 www.anywhere.enmax.com
 www.ap-myclients.manulife.ca
 www.api.food.inter.ikea.com
+www.api.futures.kraken.com
 www.api.inter.ikea.com
 www.api.iserve-dev.ikea.com
 www.api.iserve-ppe.ikea.com
@@ -5183,6 +5187,7 @@ www.fasatwebig.manulife.ca
 www.fasatwebuatig.manulife.ca
 www.fi-int-jobs.about.ikea.com
 www.fi-jobs.about.ikea.com
+www.fix-api.kraken.com
 www.fmo.portal.manulife.ca
 www.food.inter.ikea.com
 www.foodam.ikea.com
@@ -5240,6 +5245,8 @@ www.kdb.ikea.com
 www.ko-int-jobs.about.ikea.com
 www.ko-jobs.about.ikea.com
 www.kraken.com
+www.krakentoau10tix-prod.kraken.com
+www.krakentoau10tix.kraken.com
 www.lt-int-jobs.about.ikea.com
 www.lt-jobs.about.ikea.com
 www.lv-int-jobs.about.ikea.com
@@ -5275,6 +5282,7 @@ www.onlinecatalogue.ikea.com
 www.onlinecatalogueasia.ikea.com
 www.onlinecataloguecanada.ikea.com
 www.optiva.food.inter.ikea.com
+www.orders.kraken.com
 www.origin.expressvpn.com
 www.ouryear.ikea.com
 www.pl-int-jobs.about.ikea.com
@@ -5367,6 +5375,10 @@ www.th-jobs.about.ikea.com
 www.tokenize-ds-t1.manulife.ca
 www.tokenize-ds.manulife.ca
 www.tools.manulife.com
+www.tr-v15.kraken.com
+www.tr15-preprod.kraken.com
+www.travel.kraken.com
+www.travel.lobster.kraken.com
 www.tripx-auth-api.dev.aks.manulife.ca
 www.tripx-compensation-api.dev.aks.manulife.ca
 www.tripx-graphql.dev.aks.manulife.ca
@@ -5389,6 +5401,7 @@ www.tst.about.ikea.com
 www.tst.mobile.aks.manulife.ca
 www.uat.illustrations.manulife.ca
 www.uat.insurance.manulife.ca
+www.uat.lobster.kraken.com
 www.uat.pot.manulife.ca
 www.uk-int-jobs.about.ikea.com
 www.uk-jobs.about.ikea.com
@@ -5396,7 +5409,9 @@ www.ukie-appointment-booking.ikea.com
 www.vi-int-jobs.about.ikea.com
 www.vi-jobs.about.ikea.com
 www.videos.ikea.com
+www.vip.uat.lobster.kraken.com
 www.vitalityservice.manulife.ca
+www.web1.kraken.com
 www.webmail.enmax.com
 www.www.hpsmart.com
 www1.enmax.com
