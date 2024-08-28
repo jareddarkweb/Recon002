@@ -2069,6 +2069,7 @@ bac.manulife.com
 bacdata.manulife.com
 backend-recovery.recov.expressvpn.com
 backend-restricted.expressvpn.com
+backend-test.textnow.com
 backend.expressvpn.com
 backend.recov.expressvpn.com
 backend.vpn.indeed.com
@@ -2459,6 +2460,7 @@ click.marketing.kraken.com
 click.news.email.ikea.com
 clicks.expressvpn.com
 clicktocall.labs.indeed.com
+client-test.textnow.com
 client.asia.manulife.com
 client.bullish.com
 clientvpn.indeed.com
@@ -2561,6 +2563,7 @@ connect-6-14-3.devops.vpn.indeed.com
 connect-7-9-5.a.vpn.indeed.com
 connect.indeed.com
 connect.manulife.com
+connect.textnow.com
 connect.vpn.indeed.com
 connect071-3-51-7-2.swagger.vpn.indeed.com
 connect63-85-6-59ids.vpn.indeed.com
@@ -2690,6 +2693,7 @@ daisydr.manulife.com
 data.lime.bike
 data.service.manulife.ca
 dataport.manulife.com
+daveg.tncp.textnow.com
 dbpartners.manulife.com
 dbs.sg.qq.manulife.com
 dc-1.expressvpn.com
@@ -2819,6 +2823,7 @@ dev.retirementredefined.manulife.ca
 dev.smaland.ikea.com
 dev.t.manulife.com
 dev.t.qr.ikea.com
+dev.textnow.com
 dev.tncp.textnow.com
 dev.to
 dev.toolbox.ikea.com
@@ -2932,6 +2937,7 @@ dr.api.portal.manulife.ca
 dradis-taxonomy-api.indeed.com
 druglookup-client.manulife.com
 druhin.tncp.textnow.com
+druhinb.tncp.textnow.com
 drum-project-atlas-dev.dev.chains.kraken.com
 dsa-reporting-and-appeals.indeed.com
 dsw3d4f5c.quizlet.com
@@ -4261,6 +4267,7 @@ jumio.ext-api.simnext.bullish.com
 jumpstartdreamsjan2013-es2.quizlet.com
 k8s.quizlet.com
 karma.indeed.com
+karn.tncp.textnow.com
 kdb.ikea.com
 kefalos-uncovered.aws.vpn.indeed.com
 kelvintest.indeed.com
@@ -4461,6 +4468,7 @@ mail.85st.enmax.com
 mail.99.enmax.com
 mail.exop.manulife.com
 mail.indeed.com
+mail.textnow.com
 mail.virus32.aggtest.indeed.com
 mail01.ikea.com
 mail02.ikea.com
@@ -5349,6 +5357,7 @@ plus.app.ikea.com
 plus.apps.ikea.com
 pmt-inv.manulife.com
 pnilsetest.ikea.com
+poc-daveg.tncp.textnow.com
 policyservice.manulife.ca
 polyfill.indeed.com
 pongdim.indeed.com
@@ -5704,6 +5713,7 @@ qa.manulifesecurities.manulife.ca
 qa.portal.manulife.ca
 qa.retirementredefined.manulife.ca
 qa.statics.indeed.com
+qa.textnow.com
 qa.tncp.textnow.com
 qa1v.enmax.com
 qa2.mysolutionsonline.manulife.ca
@@ -6316,6 +6326,7 @@ staging.groupbenefits.manulife.ca
 staging.kraken.com
 staging.lobster.kraken.com
 staging.quizlet.com
+staging.textnow.com
 start.indeed.com
 starter.textnow.com
 static.homesmart.ikea.com
@@ -6341,6 +6352,8 @@ store.manulife.com
 store.quizlet.com
 storefront.ctxgslb.manulife.com
 storefront.gslbctx.manulife.com
+storyblokprod.textnow.com
+storyblokstage.textnow.com
 storybook.dev.to
 strawberry.indeed.com
 strings.indeed.com
@@ -6517,6 +6530,12 @@ test.pilot.bullish.com
 test.quizlet.com
 test.report.wamasia.manulife.com
 test.textnow.com
+test2.textnow.com
+test3.textnow.com
+test4.textnow.com
+test5.textnow.com
+test6.textnow.com
+test7.textnow.com
 testarrowonramp.manulife.com
 testgrace.enmax.com
 testmfa.manulife.com
@@ -6989,6 +7008,7 @@ web1.quizlet.com
 web2.quizlet.com
 webaccess.enmax.com
 webcast.manulife.com
+webcms-prod.textnow.com
 webcms-stage.textnow.com
 webdisk.ads.enmax.com
 webdisk.inter.ikea.com
@@ -7446,6 +7466,7 @@ www.batcave.manulife.ca
 www.bi.food.inter.ikea.com
 www.billing.indeed.com
 www.blog.expressvpn.com
+www.blog.textnow.com
 www.bluesun-uat.manulife.com
 www.bluesunsso.manulife.com
 www.bobidev.manulife.com
@@ -7561,6 +7582,7 @@ www.en-int-jobs.about.ikea.com
 www.en-jobs.about.ikea.com
 www.en-us-int-jobs.about.ikea.com
 www.en-us-jobs.about.ikea.com
+www.engineering.textnow.com
 www.enhancedenergy-dev.enmax.com
 www.enmax.com
 www.epos.manulife.com
@@ -8238,6 +8260,7 @@ xoozkaecaeph.lobster.kraken.com
 xpwesto507.ikea.com
 xwangworker.dev-null.indeed.com
 yeti-project-atlas-dev.dev.chains.kraken.com
+yiren.tncp.textnow.com
 yulprod1.apply.indeed.com
 yulprod1.indeed.com
 yulprod1.tf2.indeed.com
