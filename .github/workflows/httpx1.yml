@@ -1,0 +1,34 @@
+name: Run httpx on new_subdomains.txt
+
+on:
+  push:
+    branches:
+      - main
+  workflow_dispatch:
+
+jobs:
+  run-httpx:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v3
+
+    - name: Set up Go (for httpx)
+      uses: actions/setup-go@v4
+      with:
+        go-version: '1.20'  # Use the appropriate Go version for httpx
+
+    - name: Install httpx
+      run: |
+        go install github.com/projectdiscovery/httpx/cmd/httpx@latest
+
+    - name: Run httpx on new_subdomains.txt
+      run: |
+        cat new_subdomains.txt | ~/go/bin/httpx -silent -o live.txt
+
+    - name: Upload live.txt as an artifact
+      uses: actions/upload-artifact@v3
+      with:
+        name: live-subdomains
+        path: live.txt
