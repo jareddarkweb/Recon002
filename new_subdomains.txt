@@ -1018,6 +1018,17 @@ amd.enmax.com
 amdr-inv.manulife.com
 america.enmax.com
 american.enmax.com
+americas-api-init-cf.cf-test.apis.indeed.com
+americas-datadrop-service-cf.apis.indeed.com
+americas-fim-dsync-cf.cf-test.apis.indeed.com
+americas-hiring-events-management-cf.apis.indeed.com
+americas-hiring-events-management-cf.cf-test.apis.indeed.com
+americas-jobalerts-cf.apis.indeed.com
+americas-jsbe-ondemand-reannotation-cf.apis.indeed.com
+americas-one-graph-cf.apis.indeed.com
+americas-oyster-cf.apis.indeed.com
+americas-profile-api-cf.apis.indeed.com
+americas-profile-api-cf.cf-test.apis.indeed.com
 americas.dyn.indeed.com
 amethyst.enmax.com
 ami.enmax.com
@@ -1086,8 +1097,6 @@ aorsso-uat.manulife.com
 ap-myclients-dev.manulife.ca
 ap-myclients-fr-dev.manulife.ca
 ap-myclients.manulife.ca
-ap-northeast-1.iot.homesmart.ikea.com
-ap-southeast-1.iot.homesmart.ikea.com
 ap-southeast-2.vpn.indeed.com
 apacvpn.indeed.com
 apexswift-inv.manulife.com
@@ -3601,6 +3610,8 @@ developer.ca.manulife.com
 developer.indeed.com
 developer.inter.ikea.com
 developer.manulife.ca
+developers.apis.indeed.com
+developers.cf-test.apis.indeed.com
 development.careers.ucalgary.ca
 development.specialized.com
 deves.accounts.ikea.com
@@ -3761,6 +3772,7 @@ eas.internal.mesh.preprod.api.manulife.com
 eas.internal.mesh.test.api.manulife.com
 eas.mesh.api.manulife.com
 eas.mesh.preprod.api.manulife.com
+eastasian-one-graph-cf.apis.indeed.com
 eastasian.dyn.indeed.com
 eastasian.m5.apply.tf2.indeed.com
 eax-api.indeed.com
@@ -3947,7 +3959,6 @@ enmaxpwbwsg01wq.enmax.com
 enmaxpwpww001wp.enmax.com
 enmaxpwpww001wq.enmax.com
 enmaxreporter.enmax.com
-enmaxt0mtg001ls.enmax.com
 enterprisedata.enmax.com
 enterprisedataqa.enmax.com
 enterprisedatatest.enmax.com
@@ -4025,6 +4036,8 @@ eu-west-3.iot.homesmart.ikea.com
 eu.centiro.ikea.com
 eu.ikea.com
 eu2.ikea.com
+europe-one-graph-cf.apis.indeed.com
+europe-one-graph-cf.cf-test.apis.indeed.com
 europe.dyn.indeed.com
 europe.quizlet.com
 europe1.apply.tf2.indeed.com
@@ -4051,7 +4064,6 @@ eventapi.uat.mesh.mci.manulife.ca
 eventapi.uatdr.mci.manulife.ca
 eventapi.uatdr.mesh.mci.manulife.ca
 eventlogger.quizlet.com
-eventlogger_svc.quizlet.com
 eventportal-api.dev.mci.manulife.ca
 eventportal-api.dev.mesh.mci.manulife.ca
 eventportal-api.prod.mci.manulife.ca
@@ -4225,6 +4237,7 @@ fsg.citibank.prod.kraken.com
 fststigw.my.ucalgary.ca
 fsw.ucalgary.ca
 ftgmer.quizlet.com
+ftlofs2.lobster.kraken.com
 ftp.freerange.ikea.com
 ftp.indeed.com
 ftp.quizlet.com
@@ -4351,6 +4364,11 @@ givingday2024.ucalgary.ca
 glanslookdatabase.ucalgary.ca
 glassdolphin.ucalgary.ca
 glinux.dh3-1.nebula.ikea.com
+global-api-init-cf.cf-test.apis.indeed.com
+global-enterprise-conversions-cf.apis.indeed.com
+global-ias-icims-cf.apis.indeed.com
+global-profile-resume-graphql-cf.apis.indeed.com
+global-profile-resume-graphql-cf.cf-test.apis.indeed.com
 global.apply.tf2.indeed.com
 global.directapply.tf2.indeed.com
 global.indeed.com
@@ -4376,6 +4394,7 @@ goto.ikea.com
 goto.manulife.com
 gough.manulife.com
 govtech.m.quizlet.com
+gpl-code.ikea.com
 gpm.dev.manulife.ca
 gpm.sit.manulife.ca
 gr.canary.indeed.com
@@ -5427,6 +5446,7 @@ kosuncovered.aggtest.indeed.com
 kr.canary.indeed.com
 kr.conv.indeed.com
 kr.indeed.com
+kraken.com
 krakentoau10tix-prod.kraken.com
 krakentoau10tix.kraken.com
 kremer.cpsc.ucalgary.ca
@@ -6259,6 +6279,7 @@ my.dyn.indeed.com
 my.indeed.com
 my.ucalgary.ca
 my.videocall.ikea.com
+myaccount.enmax.com
 myaccountpreprod.enmax.com
 myaccountqa1v.enmax.com
 myaccountqa2v.enmax.com
@@ -9425,6 +9446,7 @@ www.2011.enmax.com
 www.2012.enmax.com
 www.24.enmax.com
 www.3.enmax.com
+www.3vyknc3vzs-storage-75.kraken.com
 www.4.enmax.com
 www.5.enmax.com
 www.6.enmax.com
@@ -9483,7 +9505,9 @@ www.alumni.enmax.com
 www.am.manulife.com
 www.amazon.enmax.com
 www.america.enmax.com
+www.analytics.dev1.kraken.com
 www.analytics.enmax.com
+www.analytics.prod1.kraken.com
 www.andy.enmax.com
 www.anslow.cpsc.ucalgary.ca
 www.anth.ucalgary.ca
@@ -9493,6 +9517,7 @@ www.ap-myclients.manulife.ca
 www.api-dev.cpsc.ucalgary.ca
 www.api.ca.manulife.com
 www.api.food.inter.ikea.com
+www.api.futures.kraken.com
 www.api.inter.ikea.com
 www.api.iserve-dev.ikea.com
 www.api.iserve-ppe.ikea.com
@@ -9828,6 +9853,7 @@ www.faspexdev.manulife.com
 www.fi-int-jobs.about.ikea.com
 www.fi-jobs.about.ikea.com
 www.fitnessflower.cpsc.ucalgary.ca
+www.fix-api.kraken.com
 www.flow.manulife.com
 www.fmo.portal.manulife.ca
 www.food.inter.ikea.com
@@ -10112,6 +10138,8 @@ www.khwzawswebp02.mladcam.manulife.com
 www.ko-int-jobs.about.ikea.com
 www.ko-jobs.about.ikea.com
 www.kraken.com
+www.krakentoau10tix-prod.kraken.com
+www.krakentoau10tix.kraken.com
 www.kremer.cpsc.ucalgary.ca
 www.largedisplaysinurbanlife.cpsc.ucalgary.ca
 www.law.ucalgary.ca
@@ -10259,6 +10287,7 @@ www.optiva.food.inter.ikea.com
 www.oracledb.manulife.com
 www.oraclefusionsso-uat.manulife.com
 www.oraclefusionsso.manulife.com
+www.orders.kraken.com
 www.origin.expressvpn.com
 www.ouryear.ikea.com
 www.outsyshkitapd.ap.manulife.com
@@ -10521,7 +10550,11 @@ www.token.manulife.com
 www.tokenize-ds-t1.manulife.ca
 www.tokenize-ds.manulife.ca
 www.tools.manulife.com
+www.tr-v15.kraken.com
+www.tr15-preprod.kraken.com
 www.transact.manulife.com
+www.travel.kraken.com
+www.travel.lobster.kraken.com
 www.travelb2c.manulife.com
 www.tripx-auth-api.dev.aks.manulife.ca
 www.tripx-compensation-api.dev.aks.manulife.ca
@@ -10550,6 +10583,7 @@ www.uat-jira.manulife.com
 www.uat-necst.manulife.com
 www.uat.illustrations.manulife.ca
 www.uat.insurance.manulife.ca
+www.uat.lobster.kraken.com
 www.uat.pot.manulife.ca
 www.uatarrowonramp.manulife.com
 www.uatiicarrowws.manulife.com
@@ -10576,6 +10610,7 @@ www.vi-jobs.about.ikea.com
 www.videos.ikea.com
 www.vidstudy.cpsc.ucalgary.ca
 www.viewcount.cpsc.ucalgary.ca
+www.vip.uat.lobster.kraken.com
 www.vis.cpsc.ucalgary.ca
 www.vis4me.cpsc.ucalgary.ca
 www.visagg.cpsc.ucalgary.ca
@@ -10593,6 +10628,7 @@ www.vpngw.manulife.com
 www.vsbdev.my.ucalgary.ca
 www.vt2.cpsc.ucalgary.ca
 www.wccce2019.cpsc.ucalgary.ca
+www.web1.kraken.com
 www.web2.cpsc.ucalgary.ca
 www.web6.cpsc.ucalgary.ca
 www.webadmin.cpsc.ucalgary.ca
