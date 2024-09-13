@@ -12,7 +12,7 @@ jobs:
 
     steps:
     - name: Checkout repository
-      uses: actions/checkout@v3
+      uses: actions/checkout@v4
 
     - name: Set up Go (for httpx)
       uses: actions/setup-go@v4
@@ -28,7 +28,7 @@ jobs:
         cat new_subdomains.txt | ~/go/bin/httpx -silent -o live.txt
 
     - name: Upload live.txt as an artifact
-      uses: actions/upload-artifact@v3
+      uses: actions/upload-artifact@v4
       with:
         name: live-subdomains
         path: live.txt
