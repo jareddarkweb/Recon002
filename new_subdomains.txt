@@ -6562,6 +6562,7 @@ oraclefusionsso.manulife.com
 orange.indeed.com
 orb.indeed.com
 ord.apply.indeed.com
+order-document-viewer.ocp.ingka.ikea.com
 order.digitalse.ikea.com
 order.ubereats.com
 orders.kraken.com
@@ -8466,6 +8467,7 @@ tripx-web-fr.uat.cac.aks.manulife.ca
 tripx-web-fr.uat.cae.aks.manulife.ca
 trk.indeed.com
 trk.specialized.com
+troyj.cf-test.apis.indeed.com
 trucker.indeed.com
 truckers.indeed.com
 trustcenter.indeed.com
