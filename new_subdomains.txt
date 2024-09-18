@@ -1402,6 +1402,7 @@ auth.eu-west-1.api.homesmart.ikea.com
 auth.expressvpn.com
 auth.ikea.com
 auth.indeed.com
+auth.lime.bike
 auth.xcag.apps.ikea.com
 auth.xcag.apps.ppe.ikea.com
 authdc7.xcag.apps.ppe.ikea.com
@@ -4445,6 +4446,7 @@ govtech.m.quizlet.com
 gpl-code.ikea.com
 gpm.dev.manulife.ca
 gpm.sit.manulife.ca
+gpt.lime.bike
 gr.canary.indeed.com
 gr.conv.indeed.com
 gr.indeed.com
@@ -5504,6 +5506,7 @@ kosuncovered.aggtest.indeed.com
 kr.canary.indeed.com
 kr.conv.indeed.com
 kr.indeed.com
+kraken.com
 krakentoau10tix-prod.kraken.com
 krakentoau10tix.kraken.com
 kremer.cpsc.ucalgary.ca
@@ -7299,6 +7302,7 @@ prototypes.indeed.com
 proxy-2.lime.bike
 proxy-draw-plugin.indeed.com
 proxy-gen2-experimental.lime.bike
+proxy-gen2-production-spectrum.lime.bike
 proxy-gen2-production-standby.lime.bike
 proxy-gen2-production.lime.bike
 proxy-production-3.lime.bike
@@ -9540,6 +9544,7 @@ www.2011.enmax.com
 www.2012.enmax.com
 www.24.enmax.com
 www.3.enmax.com
+www.3vyknc3vzs-storage-75.kraken.com
 www.4.enmax.com
 www.5.enmax.com
 www.6.enmax.com
@@ -9599,7 +9604,9 @@ www.alumni.enmax.com
 www.am.manulife.com
 www.amazon.enmax.com
 www.america.enmax.com
+www.analytics.dev1.kraken.com
 www.analytics.enmax.com
+www.analytics.prod1.kraken.com
 www.andy.enmax.com
 www.anslow.cpsc.ucalgary.ca
 www.anth.ucalgary.ca
@@ -9609,6 +9616,7 @@ www.ap-myclients.manulife.ca
 www.api-dev.cpsc.ucalgary.ca
 www.api.ca.manulife.com
 www.api.food.inter.ikea.com
+www.api.futures.kraken.com
 www.api.inter.ikea.com
 www.api.iserve-dev.ikea.com
 www.api.iserve-ppe.ikea.com
@@ -9948,6 +9956,7 @@ www.faspexdev.manulife.com
 www.fi-int-jobs.about.ikea.com
 www.fi-jobs.about.ikea.com
 www.fitnessflower.cpsc.ucalgary.ca
+www.fix-api.kraken.com
 www.floridadep.gov
 www.flow.manulife.com
 www.fmo.portal.manulife.ca
@@ -10233,6 +10242,8 @@ www.khwzawswebp02.mladcam.manulife.com
 www.ko-int-jobs.about.ikea.com
 www.ko-jobs.about.ikea.com
 www.kraken.com
+www.krakentoau10tix-prod.kraken.com
+www.krakentoau10tix.kraken.com
 www.kremer.cpsc.ucalgary.ca
 www.largedisplaysinurbanlife.cpsc.ucalgary.ca
 www.law.ucalgary.ca
@@ -10380,6 +10391,7 @@ www.optiva.food.inter.ikea.com
 www.oracledb.manulife.com
 www.oraclefusionsso-uat.manulife.com
 www.oraclefusionsso.manulife.com
+www.orders.kraken.com
 www.origin.expressvpn.com
 www.ourfutureisclear.floridadep.gov
 www.ouryear.ikea.com
@@ -10644,7 +10656,11 @@ www.token.manulife.com
 www.tokenize-ds-t1.manulife.ca
 www.tokenize-ds.manulife.ca
 www.tools.manulife.com
+www.tr-v15.kraken.com
+www.tr15-preprod.kraken.com
 www.transact.manulife.com
+www.travel.kraken.com
+www.travel.lobster.kraken.com
 www.travelb2c.manulife.com
 www.tripx-auth-api.dev.aks.manulife.ca
 www.tripx-compensation-api.dev.aks.manulife.ca
@@ -10673,6 +10689,7 @@ www.uat-jira.manulife.com
 www.uat-necst.manulife.com
 www.uat.illustrations.manulife.ca
 www.uat.insurance.manulife.ca
+www.uat.lobster.kraken.com
 www.uat.pot.manulife.ca
 www.uatarrowonramp.manulife.com
 www.uatiicarrowws.manulife.com
@@ -10699,6 +10716,7 @@ www.vi-jobs.about.ikea.com
 www.videos.ikea.com
 www.vidstudy.cpsc.ucalgary.ca
 www.viewcount.cpsc.ucalgary.ca
+www.vip.uat.lobster.kraken.com
 www.vis.cpsc.ucalgary.ca
 www.vis4me.cpsc.ucalgary.ca
 www.visagg.cpsc.ucalgary.ca
@@ -10716,6 +10734,7 @@ www.vpngw.manulife.com
 www.vsbdev.my.ucalgary.ca
 www.vt2.cpsc.ucalgary.ca
 www.wccce2019.cpsc.ucalgary.ca
+www.web1.kraken.com
 www.web2.cpsc.ucalgary.ca
 www.web6.cpsc.ucalgary.ca
 www.webadmin.cpsc.ucalgary.ca
