@@ -1339,6 +1339,7 @@ asobilling.sit.manulife.ca
 asonam.cpsc.ucalgary.ca
 aspera.specialized.com
 assessments-email-sender-ia-reverse-proxy.indeed.com
+asset.ikea.com
 asset.inter.ikea.com
 assetmap.cru.ucalgary.ca
 assets-cms.kraken.com
