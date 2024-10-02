@@ -1157,7 +1157,6 @@ api.prod.asia.manulife.com
 api.quizlet.com
 api.sandbox.aks.manulife.ca
 api.simnext.bullish.com
-api.specialized.com
 api.thanks.inter.ikea.com
 api.tiktok.com
 api.uat.gb.manulife.com
@@ -2213,7 +2212,6 @@ devsi.accounts.ikea.com
 devsite.ase.cpsc.ucalgary.ca
 devsk.accounts.ikea.com
 devus.accounts.ikea.com
-devwebservice.specialized.com
 dexf.ikea.com
 digitalcollections.ucalgary.ca
 dih.ucalgary.ca
@@ -2376,7 +2374,6 @@ edi-stagingx.manulife.ca
 edi-uat-designer.manulife.ca
 edi-uatx.manulife.ca
 edi.manulife.ca
-edmsprod.ucalgary.ca
 edu-plus.apps.ikea.com
 edu.indeed.com
 educ.ucalgary.ca
@@ -3104,7 +3101,6 @@ iapi.internal.uat.lobster.kraken.com
 iapi.kraken.com
 iapi.vip.uat.lobster.kraken.com
 ibd-sit.specialized.com
-ibd.specialized.com
 ibi.ucalgary.ca
 ibiz.specialized.com
 icb-dataviewer.indeed.com
@@ -3443,7 +3439,6 @@ jira-t2.manulife.ca
 jira-test.build.ingka.ikea.com
 jira.build.ingka.ikea.com
 jira.manulife.ca
-jira.specialized.com
 jls.corp.indeed.com
 jluini.quizlet.com
 jmeter-test.manulife.ca
@@ -3901,6 +3896,7 @@ mentorlink.ucalgary.ca
 meraki.schulich.ucalgary.ca
 merch-portal4-7-7.ext.indeed.com
 merchant.bitbuy.ca
+merchants.ubereats.com
 mesh.api.manulife.com
 mesh.preprod.api.manulife.com
 messages.indeed.com
@@ -3970,6 +3966,7 @@ mobile-uat.manulife.ca
 mobile.ikea.com
 mobile.manulife.ca
 mobile.quizlet.com
+moby.ucalgary.ca
 models.indeed.com
 mon1ns-sl.ca.manulife.com
 monai.indeed.com
@@ -4137,6 +4134,7 @@ non-prod.cac.jgp-service-api.manulife.ca
 nonprod.api.manulife.ca
 nonprod.vitalityservice.manulife.ca
 nortonantivirus.aggtest.indeed.com
+not.safety.cpsc.ucalgary.ca
 notantivirus-ru.aggtest.indeed.com
 notifications.tiktok.com
 npm.corp.indeed.com
@@ -4325,6 +4323,7 @@ orb.indeed.com
 ord.apply.indeed.com
 order-document-viewer.ocp.ingka.ikea.com
 order.digitalse.ikea.com
+order.ubereats.com
 orders.kraken.com
 ordprod.indeed.com
 origin-api.manulifesecurities.manulife.ca
@@ -4454,6 +4453,7 @@ pathology.ucalgary.ca
 pay.indeed.com
 payload.elevenlabs.io
 payments.expressvpn.com
+payments.ubereats.com
 paynow.indeed.com
 pbr.failout-tool-test.indeed.com
 pc1-38.acs.ucalgary.ca
@@ -4619,7 +4619,6 @@ portal2.industry.ikea.com
 portal3--99euw.ext.indeed.com
 portal3.ext.indeed.com
 portaldc.ikea.com
-pos.specialized.com
 postmaster.quizlet.com
 postrack.logitech.com
 postzoom.kraken.com
@@ -5105,6 +5104,7 @@ resports.wsp.ucalgary.ca
 resportstest.wsp.ucalgary.ca
 rest.splunk.ikea.com
 restart.indeed.com
+restaurants.ubereats.com
 resumatch.indeed.com
 resume-review.indeed.com
 resume.indeed.com
@@ -5221,8 +5221,6 @@ saulwww.saulmain.cpsc.ucalgary.ca
 sayhej.ikea.com
 sba.enmax.com
 sbc-app-links.specialized.com
-sbc-gateway-prod.specialized.com
-sbc-gateway-staging.specialized.com
 sbc-nextjs-b2c-d1.specialized.com
 sbc-nextjs-b2c-d1v.specialized.com
 sbc.enmax.com
@@ -5333,7 +5331,6 @@ server.quizlet.com
 server.sams.ucalgary.ca
 server1.quizlet.com
 serveradmin.expressvpn.com
-service.specialized.com
 service.tiktok.com
 servicedesk.enmax.com
 servicehost.wsp.ucalgary.ca
@@ -5887,7 +5884,6 @@ tripx-web-fr.tst.aks.manulife.ca
 tripx-web-fr.uat.aks.manulife.ca
 tripx-web-fr.uat.cac.aks.manulife.ca
 tripx-web-fr.uat.cae.aks.manulife.ca
-trk.specialized.com
 troyj.cf-test.apis.indeed.com
 trucker.indeed.com
 truckers.indeed.com
@@ -5921,6 +5917,7 @@ twilio.indeed.com
 twn.indeed.com
 twwarranty.logitech.com
 u.textnow.com
+u.ubereats.com
 u002fads.indeed.com
 u002fclicktocall.labs.indeed.com
 u002fendorse.indeed.com
@@ -6162,6 +6159,7 @@ vmweb.us.tiktok.com
 vn.canary.indeed.com
 vn.conv.indeed.com
 vn.indeed.com
+vnmlvhcmsbc02.manulife.com
 vnpolicyservice.ap.manulife.com
 voiceconnect.ucalgary.ca
 voicemail-media.dev.textnow.com
@@ -6239,6 +6237,7 @@ web-sg.tiktok.com
 web-staging-eks.lime.bike
 web-staging.lime.bike
 web-static.textnow.com
+web-va.tiktok.com
 web.lime.bike
 web.manulife.com
 web.quizlet.com
@@ -6327,7 +6326,6 @@ ws-auth.lobster.kraken.com
 ws-auth.vip.uat.lobster.kraken.com
 ws-beta-pro.lobster.kraken.com
 ws-beta.kraken.com
-ws-dev.specialized.com
 ws-frontend-beta-pro.lobster.kraken.com
 ws-frontend.internal.uat.lobster.kraken.com
 ws-frontend.kraken.com
@@ -6358,6 +6356,7 @@ wss.eu-west-1.api.homesmart.ikea.com
 wss.us-east-1.api.homesmart.ikea.com
 ww.indeed.com
 ww.quizlet.com
+ww.ubereats.com
 ww1.quizlet.com
 ww8.ikea.com
 www-aem-dev.acdc.manulife.ca
@@ -6661,6 +6660,7 @@ www.manulife.com
 www.mtnplay.co.za
 www.mtnzakhele.co.za
 www.mymag.manulife.com
+www.not.safety.cpsc.ucalgary.ca
 www.online-uat.manulife.com
 www.ourfutureisclear.floridadep.gov
 www.pert.ucalgary.ca
@@ -6671,7 +6671,6 @@ www.quizlet.com
 www.rentfaster.com
 www.schulich.ucalgary.ca
 www.selfservice.manulife.com
-www.sgtm.specialized.com
 www.shop-uat.manulife.com
 www.shop.manulife.com
 www.sierra.manulife.ca
