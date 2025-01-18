@@ -1,0 +1,55 @@
+name: GAU Tools Workflow
+
+on:
+  push:
+    branches:
+      - main
+  pull_request:
+    branches:
+      - main
+
+jobs:
+  run-gau-tools:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v2
+
+    - name: Set up Go
+      uses: actions/setup-go@v2
+      with:
+        go-version: '1.17'
+
+    - name: Install GAU
+      run: |
+        go install github.com/lc/gau/v2/cmd/gau@latest
+        export PATH=$PATH:$(go env GOPATH)/bin
+
+    - name: Run GAU and output to file
+      run: |
+        if [ -f urlsgau.txt ]; then
+          # Backup the existing file
+          mv urlsgau.txt urlsgau_backup.txt
+        fi
+        
+        # Run GAU and output to a temporary file
+        gau example.com | sort | uniq > urlsgau_temp.txt
+
+        if [ -f urlsgau_backup.txt ]; then
+          # Combine the old and new files, sort, and remove duplicates
+          cat urlsgau_backup.txt urlsgau_temp.txt | sort | uniq > urlsgau.txt
+          rm urlsgau_backup.txt urlsgau_temp.txt
+        else
+          mv urlsgau_temp.txt urlsgau.txt
+        fi
+
+    - name: Commit and push changes
+      run: |
+        git config --global user.name 'github-actions[bot]'
+        git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+        git add urlsgau.txt
+        git commit -m 'Update urlsgau.txt with new GAU output'
+        git push
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
