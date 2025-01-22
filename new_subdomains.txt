@@ -845,7 +845,6 @@ adm.enmax.com
 adm2.enmax.com
 admanager.specialized.com
 admin-prod.digitalse.ikea.com
-admin.bitbuy.ca
 admin.chatbot.indeed.com
 admin.cpsc.ucalgary.ca
 admin.dev.journeys.ikea.com
@@ -1170,8 +1169,6 @@ api-crypto-preview.bitbuy.ca
 api-crypto.bitbuy.ca
 api-dev.cpsc.ucalgary.ca
 api-edu-webapp.indeed.com
-api-external-preview.bitbuy.ca
-api-external.bitbuy.ca
 api-gw.indeed.com
 api-ingress-prime1-beta.p1.kraken.com
 api-ingress-prime1-main.p1.kraken.com
@@ -1183,8 +1180,6 @@ api-staking-preview.bitbuy.ca
 api-staking.bitbuy.ca
 api-stocks-preview.bitbuy.ca
 api-stocks.bitbuy.ca
-api-stonks-preview.bitbuy.ca
-api-stonks.bitbuy.ca
 api-temp1.kraken.com
 api-title-webapp.indeed.com
 api-v2-jwks.integration.expressvpn.com
@@ -1248,7 +1243,6 @@ api.us.elevenlabs.io
 api.vip.uat.lobster.kraken.com
 api.wsp.ucalgary.ca
 api1.np.ca.manulife.com
-api2.bitbuy.ca
 apidisco-aka.expressvpn.com
 apidocs.chatbot.indeed.com
 apirss.dyn.indeed.com
@@ -1504,7 +1498,6 @@ avi.indeed.com
 aviproom.manulife.com
 awmag.logitech.com
 aws-test.apis.indeed.com
-aws.box.bitbuy.ca
 aws.vpn.indeed.com
 aws13aidemo01.logitech.com
 aws13dims01.logitech.com
@@ -1593,7 +1586,6 @@ beta-ws-frontend.kraken.com
 beta-ws-private.kraken.com
 beta-ws.kraken.com
 beta.acc.gov
-beta.bitbuy.ca
 beta.elevenlabs.io
 beta.kraken.com
 beta.quizlet.com
@@ -1670,7 +1662,6 @@ bounce.b2b.logitech.com
 bounce.email.hpsmart.com
 bounce.instantink.hpsmart.com
 box.apps.logitech.com
-box.bitbuy.ca
 br.canary.indeed.com
 br.conv.indeed.com
 br.indeed.com
@@ -2153,6 +2144,7 @@ connectdev.manulife.com
 connecthk.manulife.com
 connecthk01.manulife.com
 connecthk02.manulife.com
+connectivitycheck.expressvpn.com
 connectmeeting.ucalgary.ca
 connectsg.manulife.com
 connectsg01.manulife.com
@@ -3680,7 +3672,9 @@ id.bitbuy.ca
 id.canary.indeed.com
 id.conv.indeed.com
 id.indeed.com
+id.internal.uat.lobster.kraken.com
 id.manulife.ca
+id.vip.uat.lobster.kraken.com
 idaas.ca.manulife.com
 idaas.cp.ca.manulife.com
 idaas.np-cpqa.ca.manulife.com
@@ -4732,7 +4726,6 @@ memoriaanual.ikea.com
 mentorlink.ucalgary.ca
 meraki.schulich.ucalgary.ca
 merch-portal4-7-7.ext.indeed.com
-merchant.bitbuy.ca
 merchants.ubereats.com
 mertensiana.phys.ucalgary.ca
 mesh.api.manulife.com
@@ -5815,6 +5808,7 @@ profile-native.dyn.indeed.com
 profile-native.indeed.com
 profile.indeed.com
 projecttracker-qa.enmax.com
+projecttracker.enmax.com
 prometheus.logitech.com
 promo.indeed.com
 promo.textnow.com
@@ -6761,7 +6755,6 @@ tenshoku.indeed.com
 test-backend.api.analytics.homesmart.ikea.com
 test-eguides.ikea.com
 test.apply.indeed.com
-test.bitbuy.ca
 test.cusc.manulife.com
 test.floridadep.gov
 test.indeed.com
@@ -7654,6 +7647,7 @@ wendy.ach.ucalgary.ca
 werklund.ucalgary.ca
 wetlandwebtop.ucalgary.ca
 wfa.tiktok.com
+wfh-anz.logitech.com
 whatsapp-template-callback-qa.indeed.com
 whm.alhajj.cpsc.ucalgary.ca
 whm.helpdesktv.cpsc.ucalgary.ca
@@ -7661,7 +7655,6 @@ whm.quizlet.com
 whm.science.webtwo.cpsc.ucalgary.ca
 wholesale.textnow.com
 wicselect.logitech.com
-widgets.bitbuy.ca
 wiegxeichohyax.kraken.com
 wifi.tiktok.com
 wifisecurelogin.ucalgary.ca
@@ -7968,6 +7961,7 @@ www.24.enmax.com
 www.25.enmax.com
 www.3.enmax.com
 www.3d.specialized.com
+www.3vyknc3vzs-storage-75.kraken.com
 www.4.enmax.com
 www.5.enmax.com
 www.6.enmax.com
@@ -8020,12 +8014,15 @@ www.airphotos.ucalgary.ca
 www.algorithmicbotany.jungletest.cpsc.ucalgary.ca
 www.alhajj.cpsc.ucalgary.ca
 www.alumni.cpsc.ucalgary.ca
+www.analytics.dev1.kraken.com
+www.analytics.prod1.kraken.com
 www.anslow.cpsc.ucalgary.ca
 www.anth.ucalgary.ca
 www.anywhere.enmax.com
 www.ap-myclients.manulife.ca
 www.api-dev.cpsc.ucalgary.ca
 www.api.food.inter.ikea.com
+www.api.futures.kraken.com
 www.api.inter.ikea.com
 www.api.iserve-dev.ikea.com
 www.api.iserve-ppe.ikea.com
@@ -8049,6 +8046,8 @@ www.asonam.cpsc.ucalgary.ca
 www.avecise01mg02p.enmax.com
 www.avecise02mg01p.enmax.com
 www.avecise02mg02p.enmax.com
+www.backend-restricted.expressvpn.com
+www.backend.expressvpn.com
 www.badges.ucalgary.ca
 www.barclaylab.ucalgary.ca
 www.batcave.manulife.ca
@@ -8064,7 +8063,6 @@ www.blog.expressvpn.com
 www.blog.textnow.com
 www.bomgar.ucalgary.ca
 www.boot.cpsc.ucalgary.ca
-www.box.bitbuy.ca
 www.bts2015.logitech.com
 www.bugs-qa.indeed.com
 www.bugzilla.cpsc.ucalgary.ca
@@ -8147,6 +8145,7 @@ www.da-int-jobs.about.ikea.com
 www.da-jobs.about.ikea.com
 www.dash.ucalgary.ca
 www.dataexperience.cpsc.ucalgary.ca
+www.datagenie.logitech.com
 www.dciwasp.admin.ucalgary.ca
 www.de-ch-int-jobs.about.ikea.com
 www.de-ch-jobs.about.ikea.com
@@ -8215,9 +8214,11 @@ www.fablabx.cpsc.ucalgary.ca
 www.fansa.cpsc.ucalgary.ca
 www.fasatwebig.manulife.ca
 www.fasatwebuatig.manulife.ca
+www.feedback.logitech.com
 www.fi-int-jobs.about.ikea.com
 www.fi-jobs.about.ikea.com
 www.fitnessflower.cpsc.ucalgary.ca
+www.fix-api.kraken.com
 www.floridadep.gov
 www.fmo.portal.manulife.ca
 www.food.inter.ikea.com
@@ -8317,6 +8318,8 @@ www.kellyjj.cpsc.ucalgary.ca
 www.ko-int-jobs.about.ikea.com
 www.ko-jobs.about.ikea.com
 www.kraken.com
+www.krakentoau10tix-prod.kraken.com
+www.krakentoau10tix.kraken.com
 www.kremer.cpsc.ucalgary.ca
 www.largedisplaysinurbanlife.cpsc.ucalgary.ca
 www.law.ucalgary.ca
@@ -8387,6 +8390,8 @@ www.onlinecatalogue.ikea.com
 www.onlinecatalogueasia.ikea.com
 www.onlinecataloguecanada.ikea.com
 www.optiva.food.inter.ikea.com
+www.orders.kraken.com
+www.origin.expressvpn.com
 www.ourfutureisclear.floridadep.gov
 www.ouryear.ikea.com
 www.parking.ucalgary.ca
@@ -8431,6 +8436,7 @@ www.re18.cpsc.ucalgary.ca
 www.react.fundament.ikea.com
 www.redcap-t.cru.ucalgary.ca
 www.redcap.cru.ucalgary.ca
+www.releasemaster.expressvpn.com
 www.rentfaster.com
 www.ret-mfc-policyservice.manulife.ca
 www.retch918-es4005.wincor.ikea.com
@@ -8499,6 +8505,7 @@ www.sl-int-jobs.about.ikea.com
 www.sl-jobs.about.ikea.com
 www.smc1.sportmed.ucalgary.ca
 www.smlweb.cpsc.ucalgary.ca
+www.smon.expressvpn.com
 www.snowbound-viewer-dev.manulife.ca
 www.snowbound-viewer-prd.manulife.ca
 www.snowbound-viewer-trn.manulife.ca
@@ -8517,6 +8524,7 @@ www.sso.journeys.ikea.com
 www.sso.qa.journeys.ikea.com
 www.stage.appointmentbooking.ppe.ikea.com
 www.stage.groupbenefits.manulife.ca
+www.stg-datagenie.logitech.com
 www.stories.specialized.com
 www.sts.home.inter.ikea.com
 www.sts.news.inter.ikea.com
@@ -8525,6 +8533,7 @@ www.su.ucalgary.ca
 www.success.ucalgary.ca
 www.summit.specialized.com
 www.supplier.ikea.com
+www.support.expressvpn.com
 www.support.specialized.com
 www.support.ucalgary.ca
 www.surfnet.cpsc.ucalgary.ca
@@ -8550,6 +8559,10 @@ www.tlc.ucalgary.ca
 www.tokenize-ds-t1.manulife.ca
 www.tokenize-ds.manulife.ca
 www.tools.manulife.com
+www.tr-v15.kraken.com
+www.tr15-preprod.kraken.com
+www.travel.kraken.com
+www.travel.lobster.kraken.com
 www.trending.tiktok.com
 www.tripx-auth-api.dev.aks.manulife.ca
 www.tripx-compensation-api.dev.aks.manulife.ca
@@ -8574,6 +8587,7 @@ www.tst.about.ikea.com
 www.tst.mobile.aks.manulife.ca
 www.uat.illustrations.manulife.ca
 www.uat.insurance.manulife.ca
+www.uat.lobster.kraken.com
 www.uat.pot.manulife.ca
 www.ubereats.com
 www.ucalgary.ca
@@ -8604,6 +8618,7 @@ www.vls.cs.ucalgary.ca
 www.vsbdev.my.ucalgary.ca
 www.vt2.cpsc.ucalgary.ca
 www.wccce2019.cpsc.ucalgary.ca
+www.web1.kraken.com
 www.web2.cpsc.ucalgary.ca
 www.web6.cpsc.ucalgary.ca
 www.webadmin.cpsc.ucalgary.ca
@@ -8611,6 +8626,7 @@ www.webapps2.ucalgary.ca
 www.webmail.enmax.com
 www.webpax.cipac.ucalgary.ca
 www.webtwo.cpsc.ucalgary.ca
+www.wfh-anz.logitech.com
 www.wifisecurelogin.ucalgary.ca
 www.wiki.cpsc.ucalgary.ca
 www.wiki.fos.cpsc.ucalgary.ca
@@ -8637,7 +8653,6 @@ wwww.indeed.com
 wwww.quizlet.com
 wyncartick.quizlet.com
 xavier.indeed.com
-xcore.bitbuy.ca
 xe.apollocover.com
 xenbase-blast1.ucalgary.ca
 xenbase-gbrowse.ucalgary.ca
@@ -8653,7 +8668,6 @@ xoozkaecaeph.lobster.kraken.com
 xpwesto507.ikea.com
 xtovoice.elevenlabs.io
 xwangworker.dev-null.indeed.com
-xyub-01.bitbuy.ca
 yeti-project-atlas-dev.dev.chains.kraken.com
 yiren.tncp.textnow.com
 youtube.apps.logitech.com
