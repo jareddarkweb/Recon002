@@ -899,6 +899,7 @@ ads-tl01.ucalgary.ca
 ads.enmax.com
 ads.indeed.com
 ads.quizlet.com
+ads.tiktok.com
 ads1.enmax.com
 ads2.enmax.com
 adsadb.cpsc.ucalgary.ca
@@ -965,6 +966,7 @@ afasdr.manulife.com
 afdablevaccines.267.btest.podc.sl.edst.quizlet.com
 aff.enmax.com
 affiliate.enmax.com
+affiliate.tiktok.com
 affiliates.api.expressvpn.com
 affiliates.bitbuy.ca
 affiliates.enmax.com
@@ -1227,6 +1229,7 @@ api.sandbox.aks.manulife.ca
 api.simnext.bullish.com
 api.specialized.com
 api.thanks.inter.ikea.com
+api.tiktok.com
 api.uat.gb.manulife.com
 api.uat.lobster.kraken.com
 api.us.elevenlabs.io
@@ -1474,6 +1477,7 @@ autodiscover.ikea.com
 autodiscover.ingka.ikea.com
 autodiscover.quizlet.com
 autodiscover.specialized.com
+autodiscover.tiktok.com
 autodiscover.ucalgary.ca
 automated-resume-review.indeed.com
 automation-cpqa.logitech.com
@@ -2801,6 +2805,7 @@ business-suite.tiktok.com
 business-tips.tiktok.com
 business.careers.ucalgary.ca
 business.ikea.com
+business.tiktok.com
 businessdev.accounts.ikea.com
 buy-ue.logitech.com
 buy.logitech.com
@@ -2927,6 +2932,7 @@ cbdmanager.ucalgary.ca
 cbeel.ucalgary.ca
 cbs.indeed.com
 cc-remote.logitech.com
+cc.tiktok.com
 ccdl.ucalgary.ca
 ccichksam.manulife.com
 ccontents.ach.ucalgary.ca
@@ -3279,6 +3285,7 @@ contracts.logitech.com
 contractsqa.logitech.com
 control.cpsc.ucalgary.ca
 conv.indeed.com
+coo3aebuix7mainxxx.lobster.kraken.com
 cookie-removal-test.indeed.com
 cookiemgr.indeed.com
 coot.ach.ucalgary.ca
@@ -3452,7 +3459,6 @@ cscmljaus009.japan.corp.manulife.com
 csgit.cpsc.ucalgary.ca
 csgit.ucalgary.ca
 csgs.cpsc.ucalgary.ca
-cshprep.ucalgary.ca
 csmsap.ap.manulife.com
 csmslt.ap.manulife.com
 csmslt1.ap.manulife.com
@@ -3720,6 +3726,7 @@ developer.indeed.com
 developer.inter.ikea.com
 developer.logitech.com
 developer.manulife.ca
+developer.tiktok.com
 developers.apis.indeed.com
 developers.cf-test.apis.indeed.com
 developers.logitech.com
@@ -4003,6 +4010,7 @@ email.kraken.com
 email.news.quizlet.com
 email.quizlet.com
 email.specialized.com
+email.tiktok.com
 emea-expressway.logitech.com
 emea.specialized.com
 emergingalberta.ucalgary.ca
@@ -4110,7 +4118,6 @@ ereports.ucalgary.ca
 ereports2.ucalgary.ca
 erpconnect.ucalgary.ca
 error.textnow.com
-erso.ucalgary.ca
 ersoprep.ucalgary.ca
 ertest.ucalgary.ca
 erwebdev.ucalgary.ca
@@ -4784,7 +4791,6 @@ idaas.np-test1cp.ca.manulife.com
 idc-ftp.specialized.com
 idc-ss-app1.specialized.com
 idc.logitech.com
-idcardqa.ucalgary.ca
 idcrm.ap.manulife.com
 idesk4sso.ikea.com
 ideskorcacdp.ikea.com
@@ -4987,6 +4993,7 @@ ikeadigitaldesignsystem.inter.ikea.com
 il.conv.indeed.com
 il.indeed.com
 ilab.cpsc.ucalgary.ca
+ilablive.cpsc.ucalgary.ca
 illustrations.manulife.ca
 im-ws.tiktok.com
 image.e.manulife.com
@@ -5606,6 +5613,7 @@ login.sys.sea.pcf.manulife.com
 login.sys.sea.preview.pcf.manulife.com
 login.sys.sgp.pcf.manulife.com
 login.sys.sgp.preview.pcf.manulife.com
+login.tiktok.com
 logitechstore-qa.logitech.com
 logrepo.indeed.com
 logs.ucalgary.ca
@@ -5638,6 +5646,7 @@ m.manulife.com
 m.qr.ikea.com
 m.quizlet.com
 m.textnow.com
+m.tiktok.com
 m2.ikea.com
 m2m-cloud.api.homesmart.ikea.com
 m2m-cloud.eu-central-1.api.homesmart.ikea.com
@@ -5986,6 +5995,7 @@ media.partnerqa.logitech.com
 media.quizlet.com
 media.specialized.com
 media.textnow.com
+media.tiktok.com
 media2.dev.to
 mediator.mktg.manulife.com
 medicine.careers.ucalgary.ca
@@ -6372,6 +6382,7 @@ news.email.ikea.com
 news.ikea.com
 news.inter.ikea.com
 news.logitech.com
+news.tiktok.com
 news.ucalgary.ca
 newsletter.quizlet.com
 newsletter.textnow.com
@@ -7756,6 +7767,7 @@ shop.logitech.com
 shop.manulife.com
 shop.quizlet.com
 shop.static.ingka.ikea.com
+shop.tiktok.com
 shop.ucalgary.ca
 shops.specialized.com
 shsgrp.geomatics.ucalgary.ca
@@ -8121,6 +8133,7 @@ surfnet.cpsc.ucalgary.ca
 survey-medallia.manulife.ca
 survey.indeed.com
 survey.manulife.com
+survey.tiktok.com
 survey.ucalgary.ca
 surveys.ikea.com
 surveys.kraken.com
@@ -8154,6 +8167,7 @@ t.ecom1.logitech.com
 t.indeed.com
 t.manulife.com
 t.qr.ikea.com
+t.tiktok.com
 t1arrowonramp.manulife.com
 t3arrowonramp.manulife.com
 t4arrowonramp.manulife.com
@@ -8222,6 +8236,7 @@ test.pilot.bullish.com
 test.quizlet.com
 test.report.wamasia.manulife.com
 test.textnow.com
+test.tiktok.com
 test.ubereats.com
 test.vc.logitech.com
 test.wsp.ucalgary.ca
@@ -8647,6 +8662,7 @@ uvit.ras.ucalgary.ca
 ux-platform.pages.corp.indeed.com
 uy.canary.indeed.com
 uy.conv.indeed.com
+v.tiktok.com
 vadds.ucalgary.ca
 vancouver.specialized.com
 vc-in-stg.gerrit.logitech.com
@@ -8738,6 +8754,7 @@ vitalityservice.manulife.ca
 vivr-np.manulife.com
 vivr.manulife.com
 vls.cs.ucalgary.ca
+vm.tiktok.com
 vn.canary.indeed.com
 vn.conv.indeed.com
 vnhr.ap.manulife.com
