@@ -507,7 +507,6 @@
 28.enmax.com
 29.enmax.com
 291808.quizlet.com
-2a57j77zpvwh5pcx73eck5zy00ncssj.capiv2.logitech.com
 3.enmax.com
 30.enmax.com
 31.enmax.com
@@ -889,7 +888,6 @@ adnet.enmax.com
 adnsdmzdr1.enmax.com
 adnsdmzep1q.enmax.com
 adnsdmzepl.enmax.com
-adobe-membership.logitech.com
 adobe.enmax.com
 adonis.enmax.com
 adp.enmax.com
@@ -1059,7 +1057,6 @@ aiswss.ap.manulife.com
 aivaeeipegie.lobster.kraken.com
 ak-edge.preprod-ext.api.manulife.com
 ak-edge.prod-ext.api.manulife.com
-aktionen.logitech.com
 alation.lime.bike
 alberta.preserve.ucalgary.ca
 alert.logitech.com
@@ -1122,7 +1119,6 @@ americas-profile-api-cf.cf-test.apis.indeed.com
 amp-activation-service.indeed.com
 ampxy-qa.indeed.com
 ampxy.indeed.com
-amr-expressway.logitech.com
 analytics-dev.kraken.com
 analytics.dev1.kraken.com
 analytics.dexf.ikea.com
@@ -1157,7 +1153,6 @@ ap.logitech.com
 ap.postrack.logitech.com
 apac-marketing.tiktok.com
 apac.specialized.com
-apc-expressway.logitech.com
 apexqaext.logitech.com
 apexswift-inv.manulife.com
 api-accounts.bitbuy.ca
@@ -1306,7 +1301,6 @@ apsbwebconf02.manulife.com
 apsbwebext01.poolweb.manulife.com
 apsbwebext02.poolweb.manulife.com
 apsbwebint02.poolweb.manulife.com
-apt-expressway.logitech.com
 aq.conv.indeed.com
 aq.indeed.com
 ar-int-jobs.about.ikea.com
@@ -1366,7 +1360,6 @@ artsmonitoring2.ucalgary.ca
 artswebdev.ucalgary.ca
 artsweblb.ucalgary.ca
 aruba.ap.manulife.com
-as2.logitech.com
 as2qa.logitech.com
 asa-codesigner.manulife.com
 asampprd.manulife.com
@@ -1394,7 +1387,6 @@ asset.inter.ikea.com
 assetmap.cru.ucalgary.ca
 assets-cms.kraken.com
 assets-dynamic.kraken.com
-assets-email.kraken.com
 assets-pay.kraken.com
 assets-pay.lobster.kraken.com
 assets-sir.kraken.com
@@ -2620,6 +2612,7 @@ bac.manulife.com
 bacdata.manulife.com
 backend-recovery.recov.expressvpn.com
 backend-restricted.expressvpn.com
+backend-test.textnow.com
 backend.expressvpn.com
 backend.recov.expressvpn.com
 background.indeed.com
@@ -2666,7 +2659,6 @@ beta-custody.kraken.com
 beta-dc-ws-frontend.kraken.com
 beta-iapi.kraken.com
 beta-id.kraken.com
-beta-marketplace.logitech.com
 beta-nft-metadata.kraken.com
 beta-nft.kraken.com
 beta-pro-iapi.kraken.com
@@ -2684,6 +2676,7 @@ beta.elevenlabs.io
 beta.kraken.com
 beta.quizlet.com
 beta.repo.expressvpn.com
+beta.textnow.com
 beta2.quizlet.com
 bgs.ucalgary.ca
 bh.canary.indeed.com
@@ -2917,7 +2910,6 @@ capca.ucalgary.ca
 capi.logitech.com
 capital-dev.manulife.com
 capital-ui.manulife.com
-capiv2.logitech.com
 captcha-validation-worker.indeed.com
 capture-sde.edu.ikea.com
 capture-sde.ikea.com
@@ -2945,7 +2937,6 @@ cats.ikea.com
 cbdmanager.ucalgary.ca
 cbeel.ucalgary.ca
 cbs.indeed.com
-cc-remote.logitech.com
 ccdl.ucalgary.ca
 ccichksam.manulife.com
 ccontents.ach.ucalgary.ca
@@ -3029,7 +3020,6 @@ ch-fr.indeed.com
 ch.canary.indeed.com
 ch.conv.indeed.com
 ch.indeed.com
-ch01vcse01.logitech.com
 changyilamp.en.quizlet.com
 channel.logitech.com
 channelportal.logitech.com
@@ -3053,7 +3043,6 @@ checkout.jo.ikea.com
 checkout.jo.staging.ikea.com
 checkout.kw.ikea.com
 checkout.kw.staging.ikea.com
-checkout.logitech.com
 checkout.ma.staging.ikea.com
 checkout.my.ikea.com
 checkout.my.staging.ikea.com
@@ -3085,7 +3074,6 @@ ciam.enmax.com
 ciam.manulife.ca
 cichlids-staging.kraken.com
 cioemail.bitbuy.ca
-circle2testen.logitech.com
 cisac.ucalgary.ca
 citest.build.ingka.ikea.com
 citrix-ext.gslbctx.manulife.com
@@ -3133,6 +3121,7 @@ click.news.email.ikea.com
 click.services.email.ikea.com
 clicks.bitbuy.ca
 clicks.expressvpn.com
+client-test.textnow.com
 client.asia.manulife.com
 client.bullish.com
 client.home-design.ikea.com
@@ -3208,7 +3197,6 @@ cmsservice.uatdr.mesh.mci.manulife.ca
 cn.canary.indeed.com
 cn.conv.indeed.com
 cn.indeed.com
-cn02vcse01.logitech.com
 cname.quizlet.com
 cns2.quizlet.com
 co-create.ikea.com
@@ -3222,7 +3210,6 @@ cocos-api.indeed.com
 code-health-sonarqube-slack-bot.indeed.com
 code.corp.indeed.com
 codescene.inter.ikea.com
-collab-edge.logitech.com
 collab-uat.logitech.com
 collab.specialized.com
 collabos-device-management.dev.vc.logitech.com
@@ -3233,15 +3220,13 @@ collect-coworker-test.digitalse.ikea.com
 collect-customer-test.digitalse.ikea.com
 collect.digitalse.ikea.com
 comm-alert.logitech.com
-commerce-dev.logitech.com
 commerce-prd.logitech.com
-commerce-stg.logitech.com
 commfilm.ucalgary.ca
 common-inv.manulife.com
 communications.manulife.ca
 community.elevenlabs.io
-community.logitech.com
 companion.logitech.com
+companyblog.textnow.com
 compare.indeed.com
 complexity.cpsc.ucalgary.ca
 compliance.apollocover.com
@@ -3267,6 +3252,7 @@ connect-sec3.vc.logitech.com
 connect-staging.vc.logitech.com
 connect.development.specialized.com
 connect.manulife.com
+connect.textnow.com
 connect.ucalgary.ca
 connectasp.manulife.com
 connectdev.manulife.com
@@ -3574,6 +3560,7 @@ datahub.tiktok.com
 dataport.manulife.com
 datasciencehub-backup.ucalgary.ca
 datasciencehub.ucalgary.ca
+daveg.tncp.textnow.com
 davej-p-ii.acs.ucalgary.ca
 davinci.indeed.com
 dbell.ach.ucalgary.ca
@@ -3584,7 +3571,6 @@ dcs.ap.manulife.com
 dd.indeed.com
 ddc.indeed.com
 ddi-lab.network.manulife.com
-de-ch-int-jobs.about.ikea.com
 de-ch-jobs.about.ikea.com
 de-int-jobs.about.ikea.com
 de-jobs.about.ikea.com
@@ -3644,7 +3630,6 @@ dev-fusion.kraken.com
 dev-futures.kraken.com
 dev-globalgrc.manulife.com
 dev-int.id.manulife.ca
-dev-int.logitech.com
 dev-jira.manulife.com
 dev-maximis-inv.manulife.com
 dev-medl.manulife.com
@@ -3671,10 +3656,6 @@ dev-support.lobster.kraken.com
 dev-team-inv.manulife.com
 dev-toa-inv.manulife.com
 dev-tr-inv.manulife.com
-dev-vip-fix.kraken.com
-dev-vip-ws-auth.kraken.com
-dev-vip-ws.kraken.com
-dev-vip.kraken.com
 dev.acc.gov
 dev.accounts.ikea.com
 dev.api.disability.aks.manulife.ca
@@ -3724,6 +3705,7 @@ dev.smaland.ikea.com
 dev.smarthabits.logitech.com
 dev.t.manulife.com
 dev.t.qr.ikea.com
+dev.textnow.com
 dev.tiktok.com
 dev.tncp.textnow.com
 dev.token.manulife.com
@@ -3766,7 +3748,6 @@ deves.accounts.ikea.com
 devfr.accounts.ikea.com
 devhr.accounts.ikea.com
 devhu.accounts.ikea.com
-device-recommendation.logitech.com
 devin.accounts.ikea.com
 devintegrator.gbi.manulife.ca
 devit.accounts.ikea.com
@@ -3881,6 +3862,8 @@ drive.apps.logitech.com
 drs.dev.vc.logitech.com
 drs.gw.us.tiktok.com
 druglookup-client.manulife.com
+druhin.tncp.textnow.com
+druhinb.tncp.textnow.com
 drum-project-atlas-dev.dev.chains.kraken.com
 ds7.acs.ucalgary.ca
 dsa-reporting-and-appeals.indeed.com
@@ -4044,7 +4027,6 @@ email.kraken.com
 email.news.quizlet.com
 email.quizlet.com
 email.specialized.com
-emea-expressway.logitech.com
 emea.specialized.com
 emergingalberta.ucalgary.ca
 emeriti.ucalgary.ca
@@ -4065,10 +4047,8 @@ employers.indeed.com
 employers.tf2.indeed.com
 empon-workflows-service.indeed.com
 emy.ach.ucalgary.ca
-en-global-jobs.about.ikea.com
 en-int-jobs.about.ikea.com
 en-jobs.about.ikea.com
-en-us-int-jobs.about.ikea.com
 en-us-jobs.about.ikea.com
 en.quizlet.com
 enableapply.indeed.com
@@ -4158,7 +4138,6 @@ erwebprod31.ucalgary.ca
 erwebuat31.ucalgary.ca
 es-int-jobs.about.ikea.com
 es-jobs.about.ikea.com
-es-mx-int-jobs.about.ikea.com
 es-mx-jobs.about.ikea.com
 es.canary.indeed.com
 es.conv.indeed.com
@@ -4168,6 +4147,7 @@ es.tiktok.com
 esb.manulife.com
 esbmodext.manulife.com
 esc.np.ca.manulife.com
+eschmidbauer.tncp.textnow.com
 esd.cpsc.ucalgary.ca
 esem.cpsc.ucalgary.ca
 esig.med.ucalgary.ca
@@ -4285,6 +4265,7 @@ explore.ucalgary.ca
 expresscloud.expressvpn.com
 ext-api.pilot.bullish.com
 ext.indeed.com
+external-api.lime.bike
 external-data.lime.bike
 external-rt.logitech.com
 external-uat.logitech.com
@@ -4332,9 +4313,6 @@ fin.b2b.ikea.com
 firstgear.specialized.com
 fisheye.indeed.com
 fitnessflower.cpsc.ucalgary.ca
-fix-api.kraken.com
-fix.uat.lobster.kraken.com
-fix.vip.uat.lobster.kraken.com
 fixin.acs.ucalgary.ca
 flamingo.ach.ucalgary.ca
 flex-core-demo-uk.indeed.com
@@ -4389,8 +4367,6 @@ frontend.expressvpn.com
 frontend.recov.expressvpn.com
 fs-attract-api.ikea.com
 fsdevxigw.my.ucalgary.ca
-fsg.citibank.dev.kraken.com
-fsg.citibank.prod.kraken.com
 fststigw.my.ucalgary.ca
 fsw.ucalgary.ca
 ftgmer.quizlet.com
@@ -4419,7 +4395,6 @@ galaxy.ucalgary.ca
 galleryfm.cpsc.ucalgary.ca
 gameface.logitech.com
 gamezboost.mtnplay.co.za
-gaming.logitech.com
 gaming.tiktok.com
 garage142.cpsc.ucalgary.ca
 gate.ikea.com
@@ -4556,6 +4531,7 @@ gp.logitech.com
 gpl-code.ikea.com
 gpm.dev.manulife.ca
 gpm.sit.manulife.ca
+gpt.lime.bike
 gr.canary.indeed.com
 gr.conv.indeed.com
 gr.indeed.com
@@ -4671,6 +4647,7 @@ help.lime.bike
 help.logitech.com
 help.quizlet.com
 help.science.ucalgary.ca
+help.textnow.com
 helpdesk1.acs.ucalgary.ca
 helpdesktv.cpsc.ucalgary.ca
 helpwanted.indeed.com
@@ -4775,6 +4752,7 @@ hybrismailstg.specialized.com
 hyena.ach.ucalgary.ca
 i.account.tiktok.com
 i.quizlet.com
+i.textnow.com
 iags.ikea.com
 iam-adminweb.corp.indeed.com
 iam.ca.manulife.com
@@ -5041,7 +5019,6 @@ image.info.floridadep.gov
 image.instantink.hpsmart.com
 image.mail.bullish.com
 image.mail.specialized.com
-image.marketing.kraken.com
 image.messaging.logitech.com
 imagebank.manulife.com
 images-jm.indeed.com
@@ -5134,7 +5111,6 @@ int.dev.chains.kraken.com
 int.drum-project-atlas-dev.dev.chains.kraken.com
 int.ferret-project-atlas-dev.dev.chains.kraken.com
 int.griffon-project-atlas-dev.dev.chains.kraken.com
-int.logitech.com
 int.marmot-project-atlas-dev.dev.chains.kraken.com
 int.pug-project-atlas-dev.dev.chains.kraken.com
 int.rover-project-atlas-dev.dev.chains.kraken.com
@@ -5177,7 +5153,6 @@ interviews.indeed.com
 inteum.ucalgary.ca
 intidesk.ikea.com
 intidesk4.ikea.com
-intprod.logitech.com
 intqa.logitech.com
 intramax.enmax.com
 intramaxtest.enmax.com
@@ -5208,8 +5183,6 @@ iot.eu-west-3.raiden.dev.vc.logitech.com
 iot.eu-west-3.vc.logitech.com
 iot.us-east-1.raiden.dev.vc.logitech.com
 iot.us-west-2.raiden.dev.vc.logitech.com
-iot.us-west-2.raiden.dev3.vc.logitech.com
-iot.us-west-2.raiden.test.vc.logitech.com
 iot.us-west-2.vc.logitech.com
 iows.ikea.com
 iows2.ikea.com
@@ -5250,6 +5223,7 @@ ispia.cpsc.ucalgary.ca
 ispia.ucalgary.ca
 issm.ikea.com
 issuemonitor.enmax.com
+istio-test.lime.bike
 istore-oaqa.logitech.com
 istore-orion.logitech.com
 istoretest.logitech.com
@@ -5445,6 +5419,7 @@ jumpstartdreamsjan2013-es2.quizlet.com
 jungletest.cpsc.ucalgary.ca
 k8s.quizlet.com
 kamera.logitech.com
+karn.tncp.textnow.com
 kb.ucalgary.ca
 kdb.ikea.com
 kellyjj.cpsc.ucalgary.ca
@@ -5484,8 +5459,6 @@ kr-marketing.tiktok.com
 kr.canary.indeed.com
 kr.conv.indeed.com
 kr.indeed.com
-krakentoau10tix-prod.kraken.com
-krakentoau10tix.kraken.com
 kremer.cpsc.ucalgary.ca
 kronos-pl.apps.ikea.com
 ksi.cpsc.ucalgary.ca
@@ -5564,6 +5537,7 @@ ldapcluster.corp.indeed.com
 ldapsrv11c.acs.ucalgary.ca
 le.ucalgary.ca
 leadership.ucalgary.ca
+leavoy.tncp.textnow.com
 legacy.iteachcs.cpsc.ucalgary.ca
 legacy.specialized.com
 legacymail.specialized.com
@@ -5597,7 +5571,6 @@ lindsay.ucalgary.ca
 linealerts-iu-qa.indeed.com
 linebot.indeed.com
 link.clicks.expressvpn.com
-link.dev.to
 link.e.tiktok.com
 link.indeed.com
 link.kraken.com
@@ -5615,7 +5588,6 @@ links.cm.order.email.ikea.com
 links.cm.review.email.ikea.com
 links.loyalty.email.ikea.com
 links.quizlet.com
-liquidfiles.logitech.com
 listing.bullish.com
 lists.quizlet.com
 live-ai.ucalgary.ca
@@ -5649,8 +5621,6 @@ localhost.quizlet.com
 localize.logitech.com
 logi-stage-64.logitech.com
 logiappstore.logitech.com
-logias2-test.logitech.com
-logias2.logitech.com
 logilife.logitech.com
 login-no1a.www.tiktok.com
 login.apps.logitech.com
@@ -5678,6 +5648,7 @@ lu.conv.indeed.com
 lu.indeed.com
 lv-int-jobs.about.ikea.com
 lv-jobs.about.ikea.com
+lvp1.tncp.textnow.com
 lwc.ikea.com
 lx.acs.ucalgary.ca
 lxbgi.quizlet.com
@@ -5689,12 +5660,12 @@ lyncsip.ucalgary.ca
 lyncws.ucalgary.ca
 lyncwsinternal.ucalgary.ca
 m.ar.ikea.com
-m.ecom1.logitech.com
 m.fr.ikea.com
 m.ikea.com
 m.manulife.com
 m.qr.ikea.com
 m.quizlet.com
+m.textnow.com
 m2.ikea.com
 m2m-cloud.api.homesmart.ikea.com
 m2m-cloud.eu-central-1.api.homesmart.ikea.com
@@ -5838,6 +5809,7 @@ mail.tapas.cpsc.ucalgary.ca
 mail.tasupport.cpsc.ucalgary.ca
 mail.techwiki.cpsc.ucalgary.ca
 mail.telemetry.cpsc.ucalgary.ca
+mail.textnow.com
 mail.tiktok.com
 mail.tsg.cpsc.ucalgary.ca
 mail.ucalgary.ca
@@ -5979,7 +5951,6 @@ marketing.manulife.com
 marketo.ucalgary.ca
 marketorest-prod.indeed.com
 marketorest-qa.indeed.com
-marketplace.logitech.com
 marmot-project-atlas-dev.dev.chains.kraken.com
 mars.floridadep.gov
 mascots2017.cpsc.ucalgary.ca
@@ -6058,7 +6029,6 @@ medsis.ucalgary.ca
 meet.ikea.com
 meet.ucalgary.ca
 meet.vc.manulife.com
-meeting.logitech.com
 meetioapi.vc.logitech.com
 mehrdadtavana.fm.quizlet.com
 member.disability-uat.gb.manulife.ca
@@ -6146,6 +6116,7 @@ micro.ucalgary.ca
 microgenomics-test.ucalgary.ca
 microscopy.ucalgary.ca
 midocs.ap.manulife.com
+mifi.textnow.com
 migration.elevenlabs.io
 mink.ach.ucalgary.ca
 mint8.enel.ucalgary.ca
@@ -6593,8 +6564,6 @@ oci-tst-ftp.specialized.com
 ocp.ingka.ikea.com
 ocs.ucalgary.ca
 ocsp-certpki.xwp.ikea.com
-offer-service-assets.logitech.com
-offer-service.logitech.com
 offers.indeed.com
 office.apps.logitech.com
 office.phys.ucalgary.ca
@@ -6608,6 +6577,7 @@ om.conv.indeed.com
 om.indeed.com
 om.ingka.ikea.com
 omid.cpsc.ucalgary.ca
+on-the-go.textnow.com
 onboarding.bullish.com
 onboarding.indeed.com
 ondex.manulife.com
@@ -6948,6 +6918,7 @@ plus.apps.logitech.com
 pm-bounces.subscriptions.quizlet.com
 pmt-inv.manulife.com
 pmwiki.saulmain.cpsc.ucalgary.ca
+poc-daveg.tncp.textnow.com
 podc-spaa09.cpsc.ucalgary.ca
 points.indeed.com
 polar.phys.ucalgary.ca
@@ -7241,8 +7212,6 @@ pris.chatbot.indeed.com
 prism-test.ucalgary.ca
 prism.ucalgary.ca
 prismnew.ucalgary.ca
-priv-ws-dev.kraken.com
-priv-ws.kraken.com
 privacy.cn.logitech.com
 privacy.indeed.com
 privacy.logitech.com
@@ -7257,9 +7226,7 @@ pro.vip.uat.lobster.kraken.com
 processed-prod-eu-cdn.storage.home-design.ikea.com
 processed-prod-us-cdn.storage2.home-design.ikea.com
 procurementkbapi.logitech.com
-prod-blue.optionsbackup.logitech.com
 prod-foundation-gateway.api.grs.manulife.ca
-prod-green.optionsbackup.logitech.com
 prod-int.mtls.api.manulife.ca
 prod-int.mtls.api.manulife.com
 prod-mx-inbound-1.textnow.com
@@ -7298,8 +7265,10 @@ projecttracker-qa.enmax.com
 projecttracker.enmax.com
 prometheus.logitech.com
 promo.indeed.com
+promo.textnow.com
 promotions.quizlet.com
 prototypes.indeed.com
+proxy-gen2-production-spectrum.lime.bike
 proxy.dev.manulife.com
 proxy.logitech.com
 proxy.quizlet.com
@@ -7341,7 +7310,6 @@ pure.adcentral.indeed.com
 pvpn2021.bitbuy.ca
 pxl.indeed.com
 qa-capital-ui.manulife.com
-qa-int.logitech.com
 qa.api.manulifesecurities.manulife.ca
 qa.api.portal.manulife.ca
 qa.canary.indeed.com
@@ -7352,8 +7320,9 @@ qa.journeys.ikea.com
 qa.manulifesecurities.manulife.ca
 qa.portal.manulife.ca
 qa.retirementredefined.manulife.ca
-qa.sherlock.logitech.com
 qa.statics.indeed.com
+qa.textnow.com
+qa.tncp.textnow.com
 qa1v.enmax.com
 qa2.mysolutionsonline.manulife.ca
 qa2v.enmax.com
@@ -7517,7 +7486,6 @@ repsource-dev.manulife.com
 repsource.manulife.com
 repsourcepublic.manulife.com
 requirements.logitech.com
-res.ecom1.logitech.com
 research.careers.ucalgary.ca
 research4kids.ucalgary.ca
 resource.logitech.com
@@ -7627,11 +7595,6 @@ samarkand.logitech.com
 saml-advisors.manulife.ca
 sams.ucalgary.ca
 samsung.textnow.com
-sandbox-devrec.logitech.com
-sandbox-offer-service-assets.logitech.com
-sandbox-offer-service.logitech.com
-sandbox-recommendation.logitech.com
-sandbox-store.logitech.com
 sandbox.accounts.ikea.com
 sandbox.aks.manulife.ca
 sandbox.bank.aks.manulife.ca
@@ -7675,9 +7638,9 @@ scim1password.ikea.com
 scm-us.tiktok.com
 scooterlog-staging-eks.lime.bike
 scooterlog-staging.lime.bike
+scooterlog.lime.bike
 scostep-14.phys.ucalgary.ca
 scpa.ucalgary.ca
-screensafe.logitech.com
 se.canary.indeed.com
 se.conv.indeed.com
 sea-hdx01.gslbctx.manulife.com
@@ -7730,6 +7693,7 @@ securem.ikea.com
 securema.ikea.com
 securemail.manulife.com
 securemail.test.manulife.com
+securemedia.textnow.com
 securenet.uc.ucalgary.ca
 secureplanner.ikea.com
 secureuatig.manulife.ca
@@ -7742,7 +7706,6 @@ segtglobalsummit.logitech.com
 seinincontact.ikea.com
 select.indeed.com
 select.logitech.com
-selectsso.logitech.com
 selfserve.med.ucalgary.ca
 selfservice.manulife.com
 seller-id.tiktok.com
@@ -7832,7 +7795,6 @@ sharepoint.qatar.ucalgary.ca
 shares.manulife.com
 sharesdev.manulife.com
 sheepdog-project-atlas-dev.dev.chains.kraken.com
-sherlock.logitech.com
 shibboleth.ucalgary.ca
 shop-uat.manulife.com
 shop.api.ingka.ikea.com
@@ -7852,6 +7814,7 @@ sierra.uat.manulife.ca
 signatordr.manulife.com
 signature.manulife.com
 sillito.cpsc.ucalgary.ca
+sim.textnow.com
 simnext.bullish.com
 simpleui.logitech.com
 simplyhired.indeed.com
@@ -7861,6 +7824,7 @@ sip-proxy1.us-east-1.prod.tncp.textnow.com
 sip-proxy2.us-east-1.prod.tncp.textnow.com
 sip.manulife.com
 sip.quizlet.com
+sip.tncp.textnow.com
 sip.vc.manulife.com
 sit-ap.manulife.com
 sit-globalgrc.manulife.com
@@ -8050,6 +8014,7 @@ stage.portal.manulife.ca
 stage.quizlet.com
 stage.retirementredefined.manulife.ca
 stage.retirementsitedemo.manulife.ca
+stage.textnow.com
 stage.tncp.textnow.com
 stageintegrator.gbi.manulife.ca
 staging-api.kraken.com
@@ -8070,9 +8035,11 @@ staging.kraken.com
 staging.lobster.kraken.com
 staging.quizlet.com
 staging.specialized.com
+staging.textnow.com
 stapp-rems-newrun-dev.devafd.inter.ikea.com
 start.elevenlabs.io
 start.indeed.com
+starter.textnow.com
 static.homesmart.ikea.com
 static.hpsmart.com
 static.pstag.ikea.com
@@ -8106,6 +8073,8 @@ storefront.ctxgslb.manulife.com
 storefront.gslbctx.manulife.com
 stories.specialized.com
 story.apollocover.com
+storyblokprod.textnow.com
+storyblokstage.textnow.com
 storybook.dev.to
 strings.indeed.com
 strl.ucalgary.ca
@@ -8138,7 +8107,6 @@ support.expressvpn.com
 support.indeed.com
 support.internal.uat.lobster.kraken.com
 support.kraken.com
-support.logitech.com
 support.manulife.com
 support.planner.ikea.com
 support.quizlet.com
@@ -8262,6 +8230,7 @@ techconnect.manulife.com
 techwiki.cpsc.ucalgary.ca
 telemetry.cpsc.ucalgary.ca
 telemetryv2.control.cpsc.ucalgary.ca
+temp.test.textnow.com
 tempo2.cru.ucalgary.ca
 tenableot.logitech.com
 tenablesc.logitech.com
@@ -8310,9 +8279,16 @@ test.online.wamasia.manulife.com
 test.pilot.bullish.com
 test.quizlet.com
 test.report.wamasia.manulife.com
+test.textnow.com
 test.ubereats.com
 test.vc.logitech.com
 test.wsp.ucalgary.ca
+test2.textnow.com
+test3.textnow.com
+test4.textnow.com
+test5.textnow.com
+test6.textnow.com
+test7.textnow.com
 testarrowonramp.manulife.com
 testf5-usc.ucalgary.ca
 testf5-webblab.ucalgary.ca
@@ -8353,6 +8329,7 @@ timelapse.ucalgary.ca
 timelytouchless.manulife.com
 tlc.ucalgary.ca
 tlsdatabase.ucalgary.ca
+tncp.textnow.com
 toa-inv.manulife.com
 toast.dev-null.indeed.com
 token-dev.manulife.com
@@ -8366,9 +8343,7 @@ toplucky.en.quizlet.com
 tor1ns-sl.ca.manulife.com
 tr-inv.manulife.com
 tr-v10.kraken.com
-tr-v15.kraken.com
 tr.canary.indeed.com
-tr15-preprod.kraken.com
 trac.ucalgary.ca
 tracking.infobip.account.tiktok.com
 tracking.infobip.service.tiktok.com
@@ -8390,8 +8365,6 @@ travel.internal.perf.id.manulife.ca
 travel.internal.qat.id.manulife.ca
 travel.internal.sit.id.manulife.ca
 travel.internal.uat.id.manulife.ca
-travel.kraken.com
-travel.lobster.kraken.com
 travel.perf.id.manulife.ca
 travel.qat.id.manulife.ca
 travel.sit.id.manulife.ca
@@ -8525,9 +8498,9 @@ tw.canary.indeed.com
 tw.indeed.com
 tw.specialized.com
 tw01n08.logitech.com
-tw01vcse01.logitech.com
 twepp.logitech.com
 twwarranty.logitech.com
+u.textnow.com
 u.ubereats.com
 ua.canary.indeed.com
 ua.conv.indeed.com
@@ -8716,7 +8689,6 @@ us.conv.indeed.com
 us.pdxprod1.indeed.com
 us.tiktok.com
 us.yulprod1.indeed.com
-us01vcse01.logitech.com
 us04n01.logitech.com
 us04n08.logitech.com
 usav-dc6-01.ikea.com
@@ -8764,7 +8736,6 @@ vi-int-jobs.about.ikea.com
 vi-jobs.about.ikea.com
 victorians.ucalgary.ca
 video-useast5-bp.us.tiktok.com
-video.logitech.com
 video.textnow.com
 videocalling.logitech.com
 videos.ikea.com
@@ -8781,18 +8752,8 @@ view.messaging.logitech.com
 view.news.email.ikea.com
 viewcount.cpsc.ucalgary.ca
 viewer.logitech.com
-vip-fix.kraken.com
-vip-fix.vip.uat.lobster.kraken.com
-vip-ws-auth-1a.vip.uat.lobster.kraken.com
-vip-ws-auth-1b.vip.uat.lobster.kraken.com
-vip-ws-auth-1c.vip.uat.lobster.kraken.com
 vip-ws-auth-forge.vip.uat.lobster.kraken.com
-vip-ws-auth.kraken.com
-vip-ws-auth.vip.uat.lobster.kraken.com
 vip-ws-forge.vip.uat.lobster.kraken.com
-vip-ws.kraken.com
-vip-ws.vip.uat.lobster.kraken.com
-vip.kraken.com
 vip.logitech.com
 vip.uat.lobster.kraken.com
 viproom.manulife.com
@@ -8918,6 +8879,7 @@ wdg.us.tiktok.com
 weasel.ach.ucalgary.ca
 web-api.ikea.com
 web-experimental-1.lime.bike
+web-experimental-2.lime.bike
 web-experimental.lime.bike
 web-production.lime.bike
 web-s-ebscohost-com.ezproxy.lib.ucalgary.ca
@@ -9203,6 +9165,7 @@ wendy.ach.ucalgary.ca
 werklund.ucalgary.ca
 wetlandwebtop.ucalgary.ca
 wfa.tiktok.com
+wfh-anz.logitech.com
 whatsapp-template-callback-qa.indeed.com
 whm.alhajj.cpsc.ucalgary.ca
 whm.helpdesktv.cpsc.ucalgary.ca
@@ -9229,7 +9192,6 @@ wirelessmobile02.ikea.com
 wirelessmobile03.ikea.com
 wirelessmobileus.ikea.com
 wjwillett.cpsc.ucalgary.ca
-wm.logitech.com
 wmcounter.quizlet.com
 wolf.ach.ucalgary.ca
 women.specialized.com
@@ -9711,6 +9673,7 @@ www.billing.indeed.com
 www.bitbuy.ca
 www.blackboard.ucalgary.ca
 www.blog.expressvpn.com
+www.blog.textnow.com
 www.bluesun-uat.manulife.com
 www.bluesunsso.manulife.com
 www.bobidev.manulife.com
@@ -9719,7 +9682,6 @@ www.boot.cpsc.ucalgary.ca
 www.box.bitbuy.ca
 www.bp_ws1.ap.manulife.com
 www.broadridge_dsto.np.ca.manulife.com
-www.bts2015.logitech.com
 www.bugs-qa.indeed.com
 www.bugzilla.cpsc.ucalgary.ca
 www.bullish.com
@@ -9739,7 +9701,6 @@ www.capital-ui.manulife.com
 www.captureus-dev.manulife.com
 www.captureus.manulife.com
 www.careerlink.ucalgary.ca
-www.careers.logitech.com
 www.cas.ucalgary.ca
 www.casa.cpsc.ucalgary.ca
 www.casa.kremer.cpsc.ucalgary.ca
@@ -9771,7 +9732,6 @@ www.choose.ucalgary.ca
 www.ciam.dev.manulife.ca
 www.cip.ikea.com
 www.ciptest.ikea.com
-www.circle2testen.logitech.com
 www.classclimate.ucalgary.ca
 www.clockwork.ucalgary.ca
 www.cm.about.ikea.com
@@ -9797,7 +9757,6 @@ www.content-txn-prd2.manulife.ca
 www.content-txn-trn.manulife.ca
 www.content-txn-tst.manulife.ca
 www.content-txn-uat.manulife.ca
-www.contracts.logitech.com
 www.control.cpsc.ucalgary.ca
 www.cpclvissetld03.manulife.com
 www.cpclvissetld05.manulife.com
@@ -9805,7 +9764,6 @@ www.cpclvjhpdb2p01.manulife.com
 www.cpcwvjhpadsp01.mlifex01.manulife.com
 www.cpcwvjhpadsp04.mlifex01.manulife.com
 www.cpsc.ucalgary.ca
-www.creative.logitech.com
 www.crmdev.ap.manulife.com
 www.crmsit.ap.manulife.com
 www.crmuat.ap.manulife.com
@@ -9831,11 +9789,11 @@ www.da-int-jobs.about.ikea.com
 www.da-jobs.about.ikea.com
 www.dash.ucalgary.ca
 www.dataexperience.cpsc.ucalgary.ca
+www.datagenie.logitech.com
 www.dbs.sg.qq.manulife.com
 www.dciwasp.admin.ucalgary.ca
 www.dcs.ap.manulife.com
 www.ddi-lab.network.manulife.com
-www.de-ch-int-jobs.about.ikea.com
 www.de-ch-jobs.about.ikea.com
 www.de-int-jobs.about.ikea.com
 www.de-jobs.about.ikea.com
@@ -9887,12 +9845,11 @@ www.elisa.cpsc.ucalgary.ca
 www.em.ucalgary.ca
 www.employer.indeed.com
 www.employers.indeed.com
-www.en-global-jobs.about.ikea.com
 www.en-int-jobs.about.ikea.com
 www.en-jobs.about.ikea.com
-www.en-us-int-jobs.about.ikea.com
 www.en-us-jobs.about.ikea.com
 www.energyvis.cpsc.ucalgary.ca
+www.engineering.textnow.com
 www.engprint.campus.ad.ucalgary.ca
 www.enhancedenergy-dev.enmax.com
 www.enmax.com
@@ -9907,7 +9864,6 @@ www.eposstg.manulife.com
 www.eposwshkt1.ap.manulife.com
 www.es-int-jobs.about.ikea.com
 www.es-jobs.about.ikea.com
-www.es-mx-int-jobs.about.ikea.com
 www.es-mx-jobs.about.ikea.com
 www.esb.manulife.com
 www.esbmodext.manulife.com
@@ -9931,7 +9887,6 @@ www.faspexdev.manulife.com
 www.fi-int-jobs.about.ikea.com
 www.fi-jobs.about.ikea.com
 www.fitnessflower.cpsc.ucalgary.ca
-www.fix-api.kraken.com
 www.floridadep.gov
 www.flow.manulife.com
 www.fmo.portal.manulife.ca
@@ -9953,7 +9908,6 @@ www.futures.kraken.com
 www.galaxy.ucalgary.ca
 www.galleryfm.cpsc.ucalgary.ca
 www.gamezboost.mtnplay.co.za
-www.gaming.logitech.com
 www.garage142.cpsc.ucalgary.ca
 www.gateway.manulife.com
 www.gbinincontact.ikea.com
@@ -9974,7 +9928,6 @@ www.green-ap.manulife.com
 www.groupbenefits.manulife.ca
 www.gsaintranetp.manulife.com
 www.guide.cpsc.ucalgary.ca
-www.harmony-select.logitech.com
 www.hci.cpsc.ucalgary.ca
 www.hcvault-test.manulife.ca
 www.health-informatics.cpsc.ucalgary.ca
@@ -10221,8 +10174,6 @@ www.khwzawswebp02.mladcam.manulife.com
 www.ko-int-jobs.about.ikea.com
 www.ko-jobs.about.ikea.com
 www.kraken.com
-www.krakentoau10tix-prod.kraken.com
-www.krakentoau10tix.kraken.com
 www.kremer.cpsc.ucalgary.ca
 www.largedisplaysinurbanlife.cpsc.ucalgary.ca
 www.law.ucalgary.ca
@@ -10338,7 +10289,6 @@ www.necst.manulife.com
 www.netcommunity.ucalgary.ca
 www.networks.cpsc.ucalgary.ca
 www.news.inter.ikea.com
-www.news.logitech.com
 www.newsroom.inter.ikea.com
 www.newton.phas.ucalgary.ca
 www.nifiiddl-dev.manulife.com
@@ -10648,11 +10598,7 @@ www.token.manulife.com
 www.tokenize-ds-t1.manulife.ca
 www.tokenize-ds.manulife.ca
 www.tools.manulife.com
-www.tr-v15.kraken.com
-www.tr15-preprod.kraken.com
 www.transact.manulife.com
-www.travel.kraken.com
-www.travel.lobster.kraken.com
 www.travelb2c.manulife.com
 www.trending.tiktok.com
 www.tripx-auth-api.dev.aks.manulife.ca
@@ -10739,6 +10685,7 @@ www.webillustrationsso.manulife.com
 www.webmail.enmax.com
 www.webpax.cipac.ucalgary.ca
 www.webtwo.cpsc.ucalgary.ca
+www.wfh-anz.logitech.com
 www.wifisecurelogin.ucalgary.ca
 www.wiki.cpsc.ucalgary.ca
 www.wiki.fos.cpsc.ucalgary.ca
@@ -10792,6 +10739,7 @@ xtovoice.elevenlabs.io
 xwangworker.dev-null.indeed.com
 xyub-01.bitbuy.ca
 yeti-project-atlas-dev.dev.chains.kraken.com
+yiren.tncp.textnow.com
 youtube.apps.logitech.com
 yuja.ucalgary.ca
 yulprod1.apply.indeed.com
@@ -10807,7 +10755,6 @@ zelda-beta-ws.kraken.com
 zelda-custody-iapi.lobster.kraken.com
 zelda-custody.kraken.com
 zelda-custody.lobster.kraken.com
-zelda-fix-api.kraken.com
 zelda-iapi.kraken.com
 zelda-iapi.lobster.kraken.com
 zelda-nft.kraken.com
@@ -10822,11 +10769,6 @@ zelda-support-www.kraken.com
 zelda-support-www.lobster.kraken.com
 zelda-support.kraken.com
 zelda-support.lobster.kraken.com
-zelda-vip-ws-auth-1a.kraken.com
-zelda-vip-ws-auth-1b.kraken.com
-zelda-vip-ws-auth-1c.kraken.com
-zelda-vip-ws-auth.kraken.com
-zelda-vip-ws.kraken.com
 zelda-ws-auth.kraken.com
 zelda-ws-auth.lobster.kraken.com
 zelda-ws-frontend.kraken.com
