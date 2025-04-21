@@ -1827,18 +1827,10 @@ api1.np.ca.manulife.com
 api2.bitbuy.ca
 apidisco-aka.expressvpn.com
 apidocs.chatbot.indeed.com
-apis-chi-11.expressvpn.com
-apis-chi-12.expressvpn.com
-apis-chi-6.expressvpn.com
-apis-chi-7.expressvpn.com
-apis-chi-8.expressvpn.com
 apis-recovery.recov.expressvpn.com
 apis.expressvpn.com
 apis.indeed.com
 apis.recov.expressvpn.com
-apischi-6.expressvpn.com
-apischi-7.expressvpn.com
-apischi-8.expressvpn.com
 apitest.wsp.ucalgary.ca
 apmail01.logitech.com
 apollo-phoenix.afu.hpsmart.com
@@ -3529,6 +3521,7 @@ career-pages.indeed.com
 careerlink.ucalgary.ca
 careers.kraken.com
 careers.manulife.com
+careers.quizlet.com
 careers.textnow.com
 careers.tiktok.com
 careers.ucalgary.ca
@@ -3816,6 +3809,7 @@ cn.conv.indeed.com
 cn.indeed.com
 cn02vcse01.logitech.com
 cname.quizlet.com
+cns1.quizlet.com
 cns2.quizlet.com
 co-create.ikea.com
 co.canary.indeed.com
@@ -4189,7 +4183,6 @@ davinci.indeed.com
 dbell.ach.ucalgary.ca
 dbpartners.manulife.com
 dbs.sg.qq.manulife.com
-dc-1.expressvpn.com
 dciwasp.admin.ucalgary.ca
 dcs.ap.manulife.com
 dd.indeed.com
@@ -4311,7 +4304,6 @@ dev.emis.partner.apigee.manulife.com
 dev.foundations.aks.manulife.ca
 dev.gbexperience.aks.manulife.ca
 dev.gbi.manulife.ca
-dev.groupbenefits.manulife.ca
 dev.iam.ca.manulife.com
 dev.iam.eas.manulife.com
 dev.id.manulife.ca
@@ -4344,7 +4336,6 @@ dev.tncp.textnow.com
 dev.token.manulife.com
 dev.toolbox.ikea.com
 dev.vc.logitech.com
-dev.verify.id.manulife.ca
 dev.vitalityservice.manulife.ca
 dev1.accounts.ikea.com
 dev1.kraken.com
@@ -4588,8 +4579,6 @@ download2367.mediafire.com
 download2425.mediafire.com
 download2429.mediafire.com
 download2430.mediafire.com
-download2434.mediafire.com
-download2439.mediafire.com
 download2440.mediafire.com
 download2441.mediafire.com
 download2442.mediafire.com
@@ -4827,7 +4816,6 @@ email-viewer.indeed.com
 email.dev-otc.kraken.com
 email.enmax.com
 email.everyonesocial.indeed.com
-email.expressvpn.com
 email.hpsmart.com
 email.ikea.com
 email.indeed.com
@@ -5108,11 +5096,7 @@ faspexdev.manulife.com
 fb.quizlet.com
 fb.specialized.com
 fdt.kraken.com
-fe-chi-1.expressvpn.com
-fe-chi-2.expressvpn.com
 features.textnow.com
-fechi-1.expressvpn.com
-fechi-2.expressvpn.com
 feedback.elevenlabs.io
 feedback.indeed.com
 feedback.logitech.com
@@ -5288,6 +5272,7 @@ gco.fatca5.manulife.com
 gcp-qa.api.ingka.ikea.com
 gcp.api.ingka.ikea.com
 gdc.indeed.com
+geekbuying.mediafire.com
 generalconnect.ucalgary.ca
 genisys.ap.manulife.com
 gentlyused.textnow.com
@@ -5474,6 +5459,7 @@ health.ucalgary.ca
 healthcarejobs.indeed.com
 hello.bitbuy.ca
 hello.indeed.com
+hello.quizlet.com
 help-staging.logitech.com
 help.elevenlabs.io
 help.indeed.com
@@ -7000,6 +6986,7 @@ mint8.enel.ucalgary.ca
 mirror.boot.cpsc.ucalgary.ca
 mirror.cpsc.ucalgary.ca
 misassetsliabsdr.manulife.com
+misc.quizlet.com
 misscarriemah.cpsc.ucalgary.ca
 ml.quizlet.com
 mladcam.manulife.com
@@ -7356,10 +7343,8 @@ nz.conv.indeed.com
 nz.indeed.com
 o-o---preferred---altox-svg1---v12---cache.c.pack.quizlet.com
 o.quizlet.com
-o1.email.expressvpn.com
 o1.email.textnow.com
 o1.outbound-email.expressvpn.com
-o1.outboundemail.expressvpn.com
 o1.ptr3703.tiktok.com
 o1.ptr462.dev.to
 o1.ptr4835.email.bullish.com
@@ -7379,7 +7364,6 @@ o17.ptr1147.service.tiktok.com
 o18.ptr8067.service.tiktok.com
 o19.ptr4023.service.tiktok.com
 o2.outbound-email.expressvpn.com
-o2.outboundemail.expressvpn.com
 o2.ptr2500.manulife.com
 o2.ptr4323.i.account.tiktok.com
 o2.ptr7502.email.bullish.com
@@ -7823,7 +7807,6 @@ poli.ucalgary.ca
 policies.cn.insiders.logitech.com
 policies.insiders.logitech.com
 policy-portal.apollocover.com
-policyservice.manulife.ca
 pop.quizlet.com
 pop3.quizlet.com
 portal-dc5.rmps.ikea.com
@@ -8232,7 +8215,6 @@ qa.api.portal.manulife.ca
 qa.canary.indeed.com
 qa.conv.indeed.com
 qa.gbi.manulife.ca
-qa.groupbenefits.manulife.ca
 qa.indeed.com
 qa.journeys.ikea.com
 qa.manulifesecurities.manulife.ca
@@ -8259,6 +8241,7 @@ qat.bank.aks.manulife.ca
 qat.cac.ciam.manulife.ca
 qat.id.manulife.ca
 qav1.enmax.com
+qdev.quizlet.com
 qis.ucalgary.ca
 qitsso-uat.manulife.com
 qitsso.manulife.com
@@ -8420,7 +8403,6 @@ restaurants.ubereats.com
 resume-review.indeed.com
 resumebuilder.indeed.com
 resumes.indeed.com
-ret-mfc-policyservice.manulife.ca
 retail.api.ikea.com
 retailerservices.enmax.com
 retailerservicesqa.enmax.com
@@ -8729,6 +8711,7 @@ sgwdotnets1.ap.manulife.com
 sgwdotnetu1.ap.manulife.com
 share.dev.textnow.com
 share.logitech.com
+share.quizlet.com
 share.stage.textnow.com
 share.textnow.com
 sharepoint-ext.ap.manulife.com
@@ -8955,7 +8938,6 @@ stage.api.portal.manulife.ca
 stage.appointmentbooking.ppe.ikea.com
 stage.blog.logitech.com
 stage.cusc.manulife.com
-stage.groupbenefits.manulife.ca
 stage.manulifesecurities.manulife.ca
 stage.mysolutionsonline.manulife.ca
 stage.portal.manulife.ca
@@ -9866,7 +9848,6 @@ wap.ikea.com
 wap.quizlet.com
 warp-api.internal.uat.lobster.kraken.com
 warp.cpsc.ucalgary.ca
-wc360.expressvpn.com
 wccce2019.cpsc.ucalgary.ca
 wcm.ucalgary.ca
 wcmdev.ucalgary.ca
@@ -10724,6 +10705,7 @@ www.azslvedldpsdd01.d01saedl.manulife.com
 www.azslvedlwrkdd02.d01saedl.manulife.com
 www.azwapppisdms01.ap.manulife.com
 www.backend-restricted.expressvpn.com
+www.backend.expressvpn.com
 www.badges.ucalgary.ca
 www.barclaylab.ucalgary.ca
 www.batcave.manulife.ca
@@ -11410,6 +11392,7 @@ www.oracledb.manulife.com
 www.oraclefusionsso-uat.manulife.com
 www.oraclefusionsso.manulife.com
 www.orders.kraken.com
+www.origin.expressvpn.com
 www.ourfutureisclear.floridadep.gov
 www.ouryear.ikea.com
 www.outsyshkitapd.ap.manulife.com
@@ -11481,6 +11464,7 @@ www.re18.cpsc.ucalgary.ca
 www.react.fundament.ikea.com
 www.redcap-t.cru.ucalgary.ca
 www.redcap.cru.ucalgary.ca
+www.releasemaster.expressvpn.com
 www.remotehk.manulife.com
 www.remotehk1.manulife.com
 www.remotehk2.manulife.com
@@ -11603,6 +11587,7 @@ www.smc1.sportmed.ucalgary.ca
 www.smlpsa8a.ap.manulife.com
 www.smltsa8a.ap.manulife.com
 www.smlweb.cpsc.ucalgary.ca
+www.smon.expressvpn.com
 www.snowbound-viewer-dev.manulife.ca
 www.snowbound-viewer-prd.manulife.ca
 www.snowbound-viewer-trn.manulife.ca
@@ -11826,6 +11811,7 @@ xenbase-blast1.ucalgary.ca
 xenbase-gbrowse.ucalgary.ca
 xenbase-test.ucalgary.ca
 xgames.logitech.com
+xhprof-dev.quizlet.com
 xhprof.quizlet.com
 xml-testing-tool-apis.indeed.com
 xml-testing-tool.indeed.com
@@ -11883,4 +11869,5 @@ zelda-www.lobster.kraken.com
 zeus.dev.vc.logitech.com
 zh-cn.hub.sync.logitech.com
 zh-tw.hub.sync.logitech.com
+zs4h7jik.quizlet.com
 zsirod.quizlet.com
