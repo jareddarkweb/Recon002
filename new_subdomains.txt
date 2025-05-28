@@ -1895,6 +1895,7 @@ auth.expressvpn.com
 auth.indeed.com
 auth.lime.bike
 auth.sync.logitech.com
+auth.us-east-1.api.homesmart.ikea.com
 auth.xcag.apps.ikea.com
 auth.xcag.apps.ppe.ikea.com
 authdc7.xcag.apps.ppe.ikea.com
@@ -4162,6 +4163,7 @@ dev.emis.partner.apigee.manulife.com
 dev.foundations.aks.manulife.ca
 dev.gbexperience.aks.manulife.ca
 dev.gbi.manulife.ca
+dev.groupbenefits.manulife.ca
 dev.iam.ca.manulife.com
 dev.iam.eas.manulife.com
 dev.id.manulife.ca
@@ -4196,6 +4198,7 @@ dev.tncp.textnow.com
 dev.token.manulife.com
 dev.toolbox.ikea.com
 dev.vc.logitech.com
+dev.verify.id.manulife.ca
 dev.vitalityservice.manulife.ca
 dev1.accounts.ikea.com
 dev1.kraken.com
@@ -4669,6 +4672,7 @@ eleven-public-cdn.eu.residency.elevenlabs.io
 elisa.cpsc.ucalgary.ca
 elluminate.ucalgary.ca
 em.ucalgary.ca
+em7903.ads-service.tiktok.com
 em8708.notifications.tiktok.com
 email-viewer.indeed.com
 email.dev-otc.kraken.com
@@ -6719,7 +6723,6 @@ mcisafetycatchuat.manulife.ca
 mcmp.gbvitality.qa.manulife.com
 mcmp.gbvitality.test.manulife.com
 mcmp.manulifevitality.manulife.com
-mcs.us.tiktok.com
 mdevaluations.ucalgary.ca
 mdg-preprod.us.tiktok.com
 mdg.us.tiktok.com
@@ -7665,6 +7668,7 @@ poli.ucalgary.ca
 policies.cn.insiders.logitech.com
 policies.insiders.logitech.com
 policy-portal.apollocover.com
+policyservice.manulife.ca
 pop.quizlet.com
 pop3.quizlet.com
 portal-dc5.rmps.ikea.com
@@ -8071,6 +8075,7 @@ qa.api.portal.manulife.ca
 qa.canary.indeed.com
 qa.conv.indeed.com
 qa.gbi.manulife.ca
+qa.groupbenefits.manulife.ca
 qa.indeed.com
 qa.journeys.ikea.com
 qa.manulifesecurities.manulife.ca
@@ -8258,6 +8263,7 @@ restaurants.ubereats.com
 resume-review.indeed.com
 resumebuilder.indeed.com
 resumes.indeed.com
+ret-mfc-policyservice.manulife.ca
 retail.api.ikea.com
 retailerservices.enmax.com
 retailerservicesqa.enmax.com
@@ -8790,6 +8796,7 @@ stage.api.portal.manulife.ca
 stage.appointmentbooking.ppe.ikea.com
 stage.blog.logitech.com
 stage.cusc.manulife.com
+stage.groupbenefits.manulife.ca
 stage.manulifesecurities.manulife.ca
 stage.mysolutionsonline.manulife.ca
 stage.portal.manulife.ca
@@ -8816,6 +8823,7 @@ staging.expressvpn.com
 staging.groupbenefits.manulife.ca
 staging.kraken.com
 staging.lobster.kraken.com
+staging.onchain.kraken.com
 staging.quizlet.com
 staging.secondhand.ikea.com
 staging.specialized.com
