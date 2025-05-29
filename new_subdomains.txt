@@ -4163,7 +4163,6 @@ dev.emis.partner.apigee.manulife.com
 dev.foundations.aks.manulife.ca
 dev.gbexperience.aks.manulife.ca
 dev.gbi.manulife.ca
-dev.groupbenefits.manulife.ca
 dev.iam.ca.manulife.com
 dev.iam.eas.manulife.com
 dev.id.manulife.ca
@@ -4198,7 +4197,6 @@ dev.tncp.textnow.com
 dev.token.manulife.com
 dev.toolbox.ikea.com
 dev.vc.logitech.com
-dev.verify.id.manulife.ca
 dev.vitalityservice.manulife.ca
 dev1.accounts.ikea.com
 dev1.kraken.com
@@ -6654,6 +6652,7 @@ mam-singapore-sponsor.manulife.com
 mam-thailand-sponsor.manulife.com
 mamj.manulife.com
 manhattan.ikea.com
+manifest-release.test.vc.logitech.com
 manulife-cambodia-eag.manulife.com
 manulife-fw1.manulife.com
 manulife-hk-cc-uat.manulife.com
@@ -7157,6 +7156,7 @@ newton.phas.ucalgary.ca
 newwp-2021.bitbuy.ca
 nexus-api.lobster.kraken.com
 nexus.corp.indeed.com
+nexus.kraken.com
 nexus.lobster.kraken.com
 nfs-external.phys.ucalgary.ca
 nft-metadata.kraken.com
@@ -7668,7 +7668,6 @@ poli.ucalgary.ca
 policies.cn.insiders.logitech.com
 policies.insiders.logitech.com
 policy-portal.apollocover.com
-policyservice.manulife.ca
 pop.quizlet.com
 pop3.quizlet.com
 portal-dc5.rmps.ikea.com
@@ -8075,7 +8074,6 @@ qa.api.portal.manulife.ca
 qa.canary.indeed.com
 qa.conv.indeed.com
 qa.gbi.manulife.ca
-qa.groupbenefits.manulife.ca
 qa.indeed.com
 qa.journeys.ikea.com
 qa.manulifesecurities.manulife.ca
@@ -8196,7 +8194,6 @@ registration.manulife.com
 registry.corp.indeed.com
 registry.rcs.ucalgary.ca
 related.mediafire.com
-releasemaster.expressvpn.com
 releasenotes.vc.logitech.com
 releaseqa.portal.manulife.ca
 relyance.alert.logitech.com
@@ -8263,7 +8260,6 @@ restaurants.ubereats.com
 resume-review.indeed.com
 resumebuilder.indeed.com
 resumes.indeed.com
-ret-mfc-policyservice.manulife.ca
 retail.api.ikea.com
 retailerservices.enmax.com
 retailerservicesqa.enmax.com
@@ -8669,7 +8665,6 @@ smetrics.ikea.com
 smlpsa8a.ap.manulife.com
 smltsa8a.ap.manulife.com
 smlweb.cpsc.ucalgary.ca
-smon.expressvpn.com
 smtp.phys.ucalgary.ca
 smtp.quizlet.com
 smtp.tiktok.com
@@ -8796,7 +8791,6 @@ stage.api.portal.manulife.ca
 stage.appointmentbooking.ppe.ikea.com
 stage.blog.logitech.com
 stage.cusc.manulife.com
-stage.groupbenefits.manulife.ca
 stage.manulifesecurities.manulife.ca
 stage.mysolutionsonline.manulife.ca
 stage.portal.manulife.ca
@@ -10132,6 +10126,7 @@ wsg-private2.uat.lobster.kraken.com
 wsg-public.uat.lobster.kraken.com
 wsg.uat.lobster.kraken.com
 wsp.ucalgary.ca
+wss.ap-northeast-2.api.homesmart.ikea.com
 wss.eu-west-1.api.homesmart.ikea.com
 ww.expressvpn.com
 ww.mediafire.com
@@ -10594,7 +10589,6 @@ www.azslvedldpsdd01.d01saedl.manulife.com
 www.azslvedlwrkdd02.d01saedl.manulife.com
 www.azwapppisdms01.ap.manulife.com
 www.backend-restricted.expressvpn.com
-www.backend.expressvpn.com
 www.badges.ucalgary.ca
 www.barclaylab.ucalgary.ca
 www.batcave.manulife.ca
@@ -11283,7 +11277,6 @@ www.oracledb.manulife.com
 www.oraclefusionsso-uat.manulife.com
 www.oraclefusionsso.manulife.com
 www.orders.kraken.com
-www.origin.expressvpn.com
 www.ourfutureisclear.floridadep.gov
 www.ouryear.ikea.com
 www.outsyshkitapd.ap.manulife.com
@@ -11355,7 +11348,6 @@ www.re18.cpsc.ucalgary.ca
 www.react.fundament.ikea.com
 www.redcap-t.cru.ucalgary.ca
 www.redcap.cru.ucalgary.ca
-www.releasemaster.expressvpn.com
 www.remotehk.manulife.com
 www.remotehk1.manulife.com
 www.remotehk2.manulife.com
@@ -11478,7 +11470,6 @@ www.smc1.sportmed.ucalgary.ca
 www.smlpsa8a.ap.manulife.com
 www.smltsa8a.ap.manulife.com
 www.smlweb.cpsc.ucalgary.ca
-www.smon.expressvpn.com
 www.snowbound-viewer-dev.manulife.ca
 www.snowbound-viewer-prd.manulife.ca
 www.snowbound-viewer-trn.manulife.ca
