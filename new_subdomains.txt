@@ -5119,6 +5119,7 @@ global-profile-resume-graphql-cf.apis.indeed.com
 global-profile-resume-graphql-cf.cf-test.apis.indeed.com
 globalgrc.manulife.com
 gltcreratedr.manulife.com
+go-test.elevenlabs.io
 go.cs.medit.ucalgary.ca
 go.elevenlabs.io
 go.expressvpn.com
@@ -6649,7 +6650,6 @@ memoriaanual.ikea.com
 mentorlink.ucalgary.ca
 meraki.schulich.ucalgary.ca
 merchant.bitbuy.ca
-merchants.ubereats.com
 mertensiana.phys.ucalgary.ca
 mesh.api.manulife.com
 mesh.preprod.api.manulife.com
@@ -7249,7 +7249,6 @@ oraclefusionsso-uat.manulife.com
 oraclefusionsso.manulife.com
 order-document-viewer.ocp.ingka.ikea.com
 order.digitalse.ikea.com
-order.ubereats.com
 orders.kraken.com
 origin-api.manulifesecurities.manulife.ca
 origin-checkout.hk.ikea.com
@@ -7384,7 +7383,6 @@ paymentgateway-dev.mediafire.com
 paymentgateway-sandbox.mediafire.com
 paymentgateway.mediafire.com
 payments.expressvpn.com
-payments.ubereats.com
 paystubs.corp.hr.manulife.com
 paystubs.dv.corp.hr.manulife.com
 paystubs.qa.corp.hr.manulife.com
@@ -8095,7 +8093,6 @@ resportstest.wsp.ucalgary.ca
 rest-prime-md-1.internal.uat.lobster.kraken.com
 rest.nodes.kraken.com
 rest.splunk.ikea.com
-restaurants.ubereats.com
 resume-review.indeed.com
 resumebuilder.indeed.com
 resumes.indeed.com
@@ -8888,7 +8885,6 @@ test.pilot.bullish.com
 test.quizlet.com
 test.report.wamasia.manulife.com
 test.textnow.com
-test.ubereats.com
 test.vc.logitech.com
 test.wsp.ucalgary.ca
 test1.enmax.com
@@ -9123,7 +9119,6 @@ tw01n08.logitech.com
 twepp.logitech.com
 twwarranty.logitech.com
 u.textnow.com
-u.ubereats.com
 ua.canary.indeed.com
 ua.conv.indeed.com
 uaa.sys.cac.preview.pcf.manulife.com
@@ -9929,7 +9924,6 @@ wss.eu-west-1.api.homesmart.ikea.com
 ww.expressvpn.com
 ww.mediafire.com
 ww.quizlet.com
-ww.ubereats.com
 ww1.quizlet.com
 ww4.ikea.com
 ww8.ikea.com
