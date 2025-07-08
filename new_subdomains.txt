@@ -5464,6 +5464,7 @@ gp.logitech.com
 gpl-code.ikea.com
 gpm.dev.manulife.ca
 gpm.sit.manulife.ca
+gpt.lime.bike
 gr.canary.indeed.com
 gr.conv.indeed.com
 gr.indeed.com
@@ -6722,7 +6723,6 @@ lindsay.ucalgary.ca
 linealerts-iu-qa.indeed.com
 linebot.indeed.com
 link.clicks.expressvpn.com
-link.dev.to
 link.e.tiktok.com
 link.indeed.com
 link.kraken.com
@@ -7215,7 +7215,6 @@ media.specialized.com
 media.textnow.com
 media.tiktok.com
 media2.dev.to
-media3.dev.to
 mediafire.mediafire.com
 mediamasterm.mediafire.com
 mediator.mktg.manulife.com
@@ -8615,6 +8614,7 @@ prototypes.indeed.com
 proxy-2.lime.bike
 proxy-draw-plugin.indeed.com
 proxy-gen2-experimental.lime.bike
+proxy-gen2-production-spectrum.lime.bike
 proxy-gen2-production-standby.lime.bike
 proxy-gen2-production.lime.bike
 proxy-production-3.lime.bike
