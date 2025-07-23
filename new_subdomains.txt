@@ -801,11 +801,6 @@ A3.iriss.ucalgary.ca
 A4.iriss.ucalgary.ca
 A5.iriss.ucalgary.ca
 A6.iriss.ucalgary.ca
-EESManagement.enmax.com
-EnhancedEnergy-api.enmax.com
-EnhancedEnergy-dev.enmax.com
-EnhancedEnergy.enmax.com
-Outages.enmax.com
 a.enmax.com
 a.mediafire.com
 a.quizlet.com
@@ -1840,7 +1835,6 @@ arrowservice.uat.mci.manulife.ca
 arrowservice.uat.mesh.mci.manulife.ca
 arrowservice.uatdr.mci.manulife.ca
 arrowservice.uatdr.mesh.mci.manulife.ca
-ars.enmax.com
 art.ucalgary.ca
 artifactory-p1.manulife.ca
 artifactory-p2.manulife.ca
@@ -3835,7 +3829,6 @@ complyadv.ext-api.pilot.bullish.com
 complyadv.ext-api.simnext.bullish.com
 condor.ach.ucalgary.ca
 conference.specialized.com
-confirm.enmax.com
 confluence-t1.manulife.ca
 confluence.ap.manulife.com
 confluence.build.ingka.ikea.com
@@ -4837,7 +4830,6 @@ eesreportingdev.enmax.com
 eet9phee.kraken.com
 efi.phys.ucalgary.ca
 efs.ucalgary.ca
-efsoz.enmax.com
 eft.manulife.com
 eftuat.manulife.com
 efwr.ucalgary.ca
@@ -4872,7 +4864,6 @@ em7903.ads-service.tiktok.com
 em8708.notifications.tiktok.com
 email-viewer.indeed.com
 email.dev-otc.kraken.com
-email.enmax.com
 email.everyonesocial.indeed.com
 email.expressvpn.com
 email.hpsmart.com
@@ -6737,7 +6728,6 @@ lindsay.ucalgary.ca
 linealerts-iu-qa.indeed.com
 linebot.indeed.com
 link.clicks.expressvpn.com
-link.dev.to
 link.e.tiktok.com
 link.indeed.com
 link.kraken.com
@@ -7232,7 +7222,6 @@ media.specialized.com
 media.textnow.com
 media.tiktok.com
 media2.dev.to
-media3.dev.to
 mediafire.mediafire.com
 mediamasterm.mediafire.com
 mediator.mktg.manulife.com
@@ -8610,7 +8599,6 @@ prod.statics.indeed.com
 prod.textnow.com
 prod.tncp.textnow.com
 prod.vitalityservice.manulife.ca
-prod1.enmax.com
 prod1.kraken.com
 prodcn.b2b.ikea.com
 proddr.mci.manulife.ca
@@ -9154,7 +9142,6 @@ seenapi.indeed.com
 seenjobs.indeed.com
 seenlabs.indeed.com
 seg.enmax.com
-seg.g1.enmax.com
 segtglobalsummit.logitech.com
 seinincontact.ikea.com
 sekhmet.indeed.com
