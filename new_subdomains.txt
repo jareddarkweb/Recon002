@@ -3252,6 +3252,8 @@ boot.cpsc.ucalgary.ca
 bot-srv.logitech.com
 botbase.indeed.com
 bounce.b2b.logitech.com
+bounce.email.hpsmart.com
+bounce.instantink.hpsmart.com
 bounces.indeed.com
 box.bitbuy.ca
 bp_ws1.ap.manulife.com
@@ -3819,6 +3821,7 @@ connectmeeting.ucalgary.ca
 connectsg.manulife.com
 connectsg01.manulife.com
 consent.indeed.com
+consentapi16-normal.tiktok.com
 console.indeed.com
 construction-toolbox.ikea.com
 constructionjobs.indeed.com
@@ -4674,6 +4677,7 @@ ebe.cpsc.ucalgary.ca
 ebill.enmax.com
 ebiz.specialized.com
 ebookcentral-proquest-com.ezproxy.lib.ucalgary.ca
+ebs.logitech.com
 ebscovideos.au.vpn.indeed.com
 ec.canary.indeed.com
 ec.conv.indeed.com
@@ -6008,6 +6012,7 @@ images-jm.indeed.com
 images-test.kraken.com
 images.a.enmax.com
 images.a.mediafire.com
+images.hpsmart.com
 images.jm.indeed.com
 images.kraken.com
 images.logitech.com
@@ -6599,6 +6604,7 @@ lindsay.ucalgary.ca
 linealerts-iu-qa.indeed.com
 linebot.indeed.com
 link.clicks.expressvpn.com
+link.dev.to
 link.e.tiktok.com
 link.indeed.com
 link.kraken.com
@@ -7054,6 +7060,7 @@ mcmp.gbvitality.qa.manulife.com
 mcmp.gbvitality.test.manulife.com
 mcmp.manulifevitality.manulife.com
 mcs-i18n.tiktok.com
+mcs-va.tiktok.com
 md.ucalgary.ca
 mdevaluations.ucalgary.ca
 mdg-preprod.us.tiktok.com
@@ -7770,6 +7777,7 @@ orb.indeed.com
 ord.apply.indeed.com
 order-document-viewer.ocp.ingka.ikea.com
 order.digitalse.ikea.com
+order.ikea.com
 order.ubereats.com
 orders.kraken.com
 ordprod.indeed.com
@@ -8093,6 +8101,7 @@ portal2.industry.ikea.com
 portal3--99euw.ext.indeed.com
 portal3.ext.indeed.com
 portaldc.ikea.com
+portaltest.hpsmart.com
 pos.specialized.com
 postmaster.quizlet.com
 postrack.logitech.com
@@ -8374,6 +8383,7 @@ priced.in.and.bullish.com
 pricing-inv.manulife.com
 prime.indeed.com
 primejobs.indeed.com
+print-perfect.hpsmart.com
 print.manulife.com
 print.ucalgary.ca
 pris.chatbot.indeed.com
@@ -8517,6 +8527,7 @@ qa6.enmax.com
 qadistdom.manulife.com
 qadistws.manulife.com
 qaintegrator.gbi.manulife.ca
+qastatus.hpsmart.com
 qat-grs.manulife.com
 qat-int.id.manulife.ca
 qat.bank.aks.manulife.ca
@@ -9801,6 +9812,7 @@ trustcenter.indeed.com
 try.elevenlabs.io
 try.quizlet.com
 tsg.cpsc.ucalgary.ca
+tsr16-normal-useast1a.tiktok.com
 tst-globalgrc.manulife.com
 tst.about.ikea.com
 tst.api.foundations.aks.manulife.ca
@@ -10034,6 +10046,7 @@ us-ad-02.specialized.com
 us-nps-03.specialized.com
 us-nps03.specialized.com
 us-retail.dev.ext.gwam.manulife.com
+us.accounts.ikea.com
 us.autocomplete.tf2.indeed.com
 us.cmhprod.indeed.com
 us.conv.indeed.com
@@ -10696,6 +10709,7 @@ ww.ubereats.com
 ww1.quizlet.com
 ww4.ikea.com
 ww8.ikea.com
+ww9.ikea.com
 www-aem-dev.acdc.manulife.ca
 www-aem-dev.affinity.manulife.ca
 www-aem-dev.bank.manulife.ca
@@ -10934,6 +10948,7 @@ www.25.mediafire.com
 www.3.enmax.com
 www.3.mediafire.com
 www.3d.specialized.com
+www.3vyknc3vzs-storage-75.kraken.com
 www.4.enmax.com
 www.4.mediafire.com
 www.5.enmax.com
@@ -11027,6 +11042,8 @@ www.algorithmicbotany.jungletest.cpsc.ucalgary.ca
 www.alhajj.cpsc.ucalgary.ca
 www.alumni.cpsc.ucalgary.ca
 www.am.manulife.com
+www.analytics.dev1.kraken.com
+www.analytics.prod1.kraken.com
 www.anslow.cpsc.ucalgary.ca
 www.anth.ucalgary.ca
 www.anywhere.enmax.com
@@ -11035,6 +11052,7 @@ www.ap-myclients.manulife.ca
 www.api-dev.cpsc.ucalgary.ca
 www.api.ca.manulife.com
 www.api.food.inter.ikea.com
+www.api.futures.kraken.com
 www.api.inter.ikea.com
 www.api.iserve-dev.ikea.com
 www.api.iserve-ppe.ikea.com
@@ -11381,6 +11399,7 @@ www.faspexdev.manulife.com
 www.fi-int-jobs.about.ikea.com
 www.fi-jobs.about.ikea.com
 www.fitnessflower.cpsc.ucalgary.ca
+www.fix-api.kraken.com
 www.floridadep.gov
 www.flow.manulife.com
 www.fmo.portal.manulife.ca
@@ -11668,6 +11687,8 @@ www.khwzawswebp02.mladcam.manulife.com
 www.ko-int-jobs.about.ikea.com
 www.ko-jobs.about.ikea.com
 www.kraken.com
+www.krakentoau10tix-prod.kraken.com
+www.krakentoau10tix.kraken.com
 www.kremer.cpsc.ucalgary.ca
 www.largedisplaysinurbanlife.cpsc.ucalgary.ca
 www.law.ucalgary.ca
@@ -11820,6 +11841,7 @@ www.optiva.food.inter.ikea.com
 www.oracledb.manulife.com
 www.oraclefusionsso-uat.manulife.com
 www.oraclefusionsso.manulife.com
+www.orders.kraken.com
 www.origin.expressvpn.com
 www.ourfutureisclear.floridadep.gov
 www.ouryear.ikea.com
@@ -12089,7 +12111,11 @@ www.token.manulife.com
 www.tokenize-ds-t1.manulife.ca
 www.tokenize-ds.manulife.ca
 www.tools.manulife.com
+www.tr-v15.kraken.com
+www.tr15-preprod.kraken.com
 www.transact.manulife.com
+www.travel.kraken.com
+www.travel.lobster.kraken.com
 www.travelb2c.manulife.com
 www.trending.tiktok.com
 www.tripx-auth-api.dev.aks.manulife.ca
@@ -12119,6 +12145,7 @@ www.uat-jira.manulife.com
 www.uat-necst.manulife.com
 www.uat.illustrations.manulife.ca
 www.uat.insurance.manulife.ca
+www.uat.lobster.kraken.com
 www.uat.pot.manulife.ca
 www.uatarrowonramp.manulife.com
 www.uatiicarrowws.manulife.com
@@ -12164,6 +12191,7 @@ www.vpngw.manulife.com
 www.vsbdev.my.ucalgary.ca
 www.vt2.cpsc.ucalgary.ca
 www.wccce2019.cpsc.ucalgary.ca
+www.web1.kraken.com
 www.web2.cpsc.ucalgary.ca
 www.web6.cpsc.ucalgary.ca
 www.webadmin.cpsc.ucalgary.ca
